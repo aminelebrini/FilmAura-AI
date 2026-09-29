@@ -1,2 +1,2 @@
 .env
-.data_bronze.json
+data/*
