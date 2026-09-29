@@ -1,0 +1,2615 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/i5kvIf73Vrxu4lYF6rby0yw4FX2.jpg",
+        "belongs_to_collection": null,
+        "budget": 2000000,
+        "genres": [
+            {
+                "id": 27,
+                "name": "Horror"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "homepage": "https://www.independentfilmco.com/films/dangerous-animals",
+        "id": 1285965,
+        "imdb_id": "tt32299316",
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "Dangerous Animals",
+        "overview": "A savvy and free-spirited surfer is abducted by a shark-obsessed serial killer. Held captive on his boat, she must figure out how to escape before he carries out a ritualistic feeding to the sharks below.",
+        "popularity": 13.4162,
+        "poster_path": "/9tk3Si960hg4E49eMt81dS7Qe9Z.jpg",
+        "production_companies": [
+            {
+                "id": 8533,
+                "logo_path": "/5jxaT7zoJKtnwqxniiJ9iJLsJru.png",
+                "name": "LD Entertainment",
+                "origin_country": "US"
+            },
+            {
+                "id": 212408,
+                "logo_path": "/63KGHkv2ir0WdhIKuVXDltukmTT.png",
+                "name": "Brouhaha Entertainment",
+                "origin_country": "AU"
+            },
+            {
+                "id": 167684,
+                "logo_path": "/kzQwU2H6woBFti9cqjr9BrVXrst.png",
+                "name": "Range Media Partners",
+                "origin_country": "US"
+            },
+            {
+                "id": 85465,
+                "logo_path": "/oxx1bmXDQxeBsvYZmCxMtfJ5wa3.png",
+                "name": "Oddfellows Entertainment",
+                "origin_country": "CA"
+            },
+            {
+                "id": 100125,
+                "logo_path": "/7hfV6fYqdBxfL8BbgcRTM2hNNqH.png",
+                "name": "Mister Smith Entertainment",
+                "origin_country": "GB"
+            },
+            {
+                "id": 309726,
+                "logo_path": null,
+                "name": "Animal Holdings",
+                "origin_country": "AU"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "AU",
+                "name": "Australia"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            },
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "release_date": "2025-06-05",
+        "revenue": 9207791,
+        "runtime": 98,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "You're safer in the water.",
+        "title": "Dangerous Animals",
+        "video": false,
+        "vote_average": 6.456,
+        "vote_count": 724,
+        "keywords": {
+            "keywords": [
+                {
+                    "id": 2988,
+                    "name": "shark attack"
+                },
+                {
+                    "id": 5160,
+                    "name": "animal attack"
+                },
+                {
+                    "id": 5619,
+                    "name": "tape"
+                },
+                {
+                    "id": 10714,
+                    "name": "serial killer"
+                },
+                {
+                    "id": 13031,
+                    "name": "creature"
+                },
+                {
+                    "id": 15097,
+                    "name": "shark"
+                },
+                {
+                    "id": 15365,
+                    "name": "held captive"
+                },
+                {
+                    "id": 50009,
+                    "name": "survival horror"
+                },
+                {
+                    "id": 154904,
+                    "name": "tape recording \u00a0"
+                },
+                {
+                    "id": 158108,
+                    "name": "killer shark"
+                },
+                {
+                    "id": 162745,
+                    "name": "ritual sacrifice"
+                },
+                {
+                    "id": 223059,
+                    "name": "animal horror"
+                },
+                {
+                    "id": 269484,
+                    "name": "female surfer"
+                },
+                {
+                    "id": 295907,
+                    "name": "psychological horror"
+                },
+                {
+                    "id": 315058,
+                    "name": "horror"
+                }
+            ]
+        }
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/16zzKM5vDxnYiqG6Tg6wOkOLSmj.jpg",
+        "belongs_to_collection": {
+            "id": 9735,
+            "name": "Friday the 13th Collection",
+            "poster_path": "/p3fJC9R4pCj5Vw0gP7Di0GZts9Z.jpg",
+            "backdrop_path": "/yz9EdlfKU8bpN0hbdJMy6QkFBoN.jpg"
+        },
+        "budget": 550000,
+        "genres": [
+            {
+                "id": 27,
+                "name": "Horror"
+            }
+        ],
+        "homepage": "",
+        "id": 4488,
+        "imdb_id": "tt0080761",
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "Friday the 13th",
+        "overview": "Camp counselors are stalked and murdered by an unknown assailant while trying to reopen a summer camp that was the site of a child's drowning.",
+        "popularity": 14.2863,
+        "poster_path": "/uGGpnWHOmWTARVN9wbC1nPxNgps.jpg",
+        "production_companies": [
+            {
+                "id": 17611,
+                "logo_path": null,
+                "name": "Sean S. Cunningham Films",
+                "origin_country": "US"
+            },
+            {
+                "id": 16779,
+                "logo_path": null,
+                "name": "Georgetown Productions",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "1980-05-09",
+        "revenue": 39925100,
+        "runtime": 95,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "They were warned...They are doomed...And on Friday the 13th, nothing will save them.",
+        "title": "Friday the 13th",
+        "video": false,
+        "vote_average": 6.401,
+        "vote_count": 3475,
+        "keywords": {
+            "keywords": [
+                {
+                    "id": 1889,
+                    "name": "lake"
+                },
+                {
+                    "id": 586,
+                    "name": "new jersey"
+                },
+                {
+                    "id": 793,
+                    "name": "drowning"
+                },
+                {
+                    "id": 5767,
+                    "name": "summer camp"
+                },
+                {
+                    "id": 4426,
+                    "name": "sadism"
+                },
+                {
+                    "id": 3335,
+                    "name": "halloween"
+                },
+                {
+                    "id": 3289,
+                    "name": "villain"
+                },
+                {
+                    "id": 9720,
+                    "name": "woods"
+                },
+                {
+                    "id": 9748,
+                    "name": "revenge"
+                },
+                {
+                    "id": 9826,
+                    "name": "murder"
+                },
+                {
+                    "id": 10333,
+                    "name": "stalking"
+                },
+                {
+                    "id": 10714,
+                    "name": "serial killer"
+                },
+                {
+                    "id": 3623,
+                    "name": "cabin"
+                },
+                {
+                    "id": 11663,
+                    "name": "camp"
+                },
+                {
+                    "id": 12339,
+                    "name": "slasher"
+                },
+                {
+                    "id": 13088,
+                    "name": "summer"
+                },
+                {
+                    "id": 14676,
+                    "name": "series of murders"
+                },
+                {
+                    "id": 208611,
+                    "name": "1950s"
+                },
+                {
+                    "id": 296608,
+                    "name": "teenager"
+                },
+                {
+                    "id": 314730,
+                    "name": "suspenseful"
+                },
+                {
+                    "id": 325766,
+                    "name": "antagonistic"
+                },
+                {
+                    "id": 342626,
+                    "name": "b-horror"
+                }
+            ]
+        }
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vMxOmgmBGegjVObjlb8ugsjGgkD.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 10752,
+                "name": "War"
+            },
+            {
+                "id": 28,
+                "name": "Action"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "https://www.amazon.com/dp/B0G4XCZW3X",
+        "id": 1252037,
+        "imdb_id": "tt31495504",
+        "origin_country": [
+            "DE"
+        ],
+        "original_language": "de",
+        "original_title": "Der Tiger",
+        "overview": "A German Tiger tank crew is sent on a dangerous mission to rescue the missing officer Paul von Hardenburg from a top-secret bunker behind enemy lines. As they make their way through the lethal no-man's land, they must confront not only the enemy, but also their own fears and inner demons. Fueled by the Wehrmacht's methamphetamine, their mission increasingly becomes a journey into the heart of darkness.",
+        "popularity": 11.4829,
+        "poster_path": "/65Jr1JAgWlu9em8zHhAfrNJJQBt.jpg",
+        "production_companies": [
+            {
+                "id": 78486,
+                "logo_path": "/oKG2ahqSVN8i5Rd0U9ZNbNY6jK7.png",
+                "name": "Pantaleon Films",
+                "origin_country": "DE"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            }
+        ],
+        "release_date": "2025-09-18",
+        "revenue": 0,
+        "runtime": 117,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "German",
+                "iso_639_1": "de",
+                "name": "Deutsch"
+            },
+            {
+                "english_name": "French",
+                "iso_639_1": "fr",
+                "name": "Fran\u00e7ais"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "The Tank",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 493,
+        "keywords": {
+            "keywords": [
+                {
+                    "id": 1956,
+                    "name": "world war ii"
+                },
+                {
+                    "id": 11117,
+                    "name": "tank"
+                },
+                {
+                    "id": 165431,
+                    "name": "anti war"
+                },
+                {
+                    "id": 207883,
+                    "name": "1940s"
+                },
+                {
+                    "id": 220492,
+                    "name": "war trauma"
+                },
+                {
+                    "id": 240422,
+                    "name": "wonder"
+                },
+                {
+                    "id": 308750,
+                    "name": "desperation"
+                },
+                {
+                    "id": 336082,
+                    "name": "eastern front"
+                },
+                {
+                    "id": 348671,
+                    "name": "meth"
+                },
+                {
+                    "id": 353736,
+                    "name": "survival instinct"
+                },
+                {
+                    "id": 367867,
+                    "name": "fog of war"
+                },
+                {
+                    "id": 369543,
+                    "name": "close\u2011quarters combat"
+                },
+                {
+                    "id": 372522,
+                    "name": "command hierarchy"
+                },
+                {
+                    "id": 372950,
+                    "name": "tank crew"
+                },
+                {
+                    "id": 372951,
+                    "name": "battlefront line"
+                },
+                {
+                    "id": 372952,
+                    "name": "survival pressure"
+                },
+                {
+                    "id": 374283,
+                    "name": "enemy pressure"
+                },
+                {
+                    "id": 374284,
+                    "name": "metal confinement"
+                }
+            ]
+        }
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/klQJJGLRxyZUoiWusZ5GA3qAtiq.jpg",
+        "belongs_to_collection": {
+            "id": 1119879,
+            "name": "Ice Road Collection",
+            "poster_path": "/jhP97IsbqmT3yoBqZoHbVLoafBI.jpg",
+            "backdrop_path": "/gtIvGzCinBaojazTQKSnzwwDTTY.jpg"
+        },
+        "budget": 40000000,
+        "genres": [
+            {
+                "id": 28,
+                "name": "Action"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "homepage": "",
+        "id": 646207,
+        "imdb_id": "tt3758814",
+        "origin_country": [
+            "CA",
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "The Ice Road",
+        "overview": "After a remote diamond mine collapses in far northern Canada, an ice road driver must lead an impossible rescue mission over a frozen ocean to save the trapped miners.",
+        "popularity": 11.8114,
+        "poster_path": "/gl1dlX9sKYpiKujq80Yxve7l4yg.jpg",
+        "production_companies": [
+            {
+                "id": 33603,
+                "logo_path": "/K1SdQd49Kx3QRx0djfHbzeotCz.png",
+                "name": "Shivhans Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 14589,
+                "logo_path": "/5WrEKsyGdTfT3T075EukSoIuxSU.png",
+                "name": "Code Entertainment",
+                "origin_country": "US"
+            },
+            {
+                "id": 19456,
+                "logo_path": "/d6rHHbJPFkDlULQsvxYgRh9McvN.png",
+                "name": "Envision Media Arts",
+                "origin_country": "US"
+            },
+            {
+                "id": 33768,
+                "logo_path": "/f8TDXTNoj4G4eRCKlUpG3KYQj9I.png",
+                "name": "The Solution",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2021-06-24",
+        "revenue": 7502846,
+        "runtime": 108,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "This mission is on thin ice.",
+        "title": "The Ice Road",
+        "video": false,
+        "vote_average": 6.743,
+        "vote_count": 1978,
+        "keywords": {
+            "keywords": [
+                {
+                    "id": 9276,
+                    "name": "truck"
+                },
+                {
+                    "id": 155497,
+                    "name": "truck driver"
+                },
+                {
+                    "id": 179803,
+                    "name": "mine explosion"
+                },
+                {
+                    "id": 213913,
+                    "name": "manitoba"
+                },
+                {
+                    "id": 246996,
+                    "name": "ice road"
+                }
+            ]
+        }
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7KsqfXDECZMryX1Rv4RKsT7SIjQ.jpg",
+        "belongs_to_collection": {
+            "id": 608101,
+            "name": "The Hitman's Bodyguard Collection",
+            "poster_path": "/7LSrP9MURgzqHFFzcQ8jndUasaF.jpg",
+            "backdrop_path": "/8FgE8oDOkldI9iAM6FxcByIlROz.jpg"
+        },
+        "budget": 30000000,
+        "genres": [
+            {
+                "id": 28,
+                "name": "Action"
+            },
+            {
+                "id": 35,
+                "name": "Comedy"
+            },
+            {
+                "id": 80,
+                "name": "Crime"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "homepage": "http://thehitmansbodyguard.movie",
+        "id": 390043,
+        "imdb_id": "tt1959563",
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "The Hitman's Bodyguard",
+        "overview": "The world\u2019s top bodyguard gets a new client, a hitman who must testify at the International Court of Justice. They must put their differences aside and work together to make it to the trial on time.",
+        "popularity": 12.2224,
+        "poster_path": "/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg",
+        "production_companies": [
+            {
+                "id": 48738,
+                "logo_path": null,
+                "name": "Campbell Grobman Films",
+                "origin_country": "US"
+            },
+            {
+                "id": 94235,
+                "logo_path": null,
+                "name": "East Light Media",
+                "origin_country": "HK"
+            },
+            {
+                "id": 74795,
+                "logo_path": "/vcCcVEglw9nVcYeZf6xZzA4s1O3.png",
+                "name": "Nu Boyana Film Studios",
+                "origin_country": "BG"
+            },
+            {
+                "id": 23011,
+                "logo_path": null,
+                "name": "Tom de Mol Productions",
+                "origin_country": "NL"
+            },
+            {
+                "id": 491,
+                "logo_path": "/5LvDUt3KmvRnXQ4NrdWJYHeuA8J.png",
+                "name": "Summit Entertainment",
+                "origin_country": "US"
+            },
+            {
+                "id": 1020,
+                "logo_path": "/kuUIHNwMec4dwOLghDhhZJzHZTd.png",
+                "name": "Millennium Media",
+                "origin_country": "US"
+            },
+            {
+                "id": 342,
+                "logo_path": "/kZ99mxyNvNgyAFjm7rcl9vfYmU8.png",
+                "name": "Davis Films",
+                "origin_country": "FR"
+            },
+            {
+                "id": 197838,
+                "logo_path": null,
+                "name": "Cristal Pictures",
+                "origin_country": "CA"
+            },
+            {
+                "id": 1632,
+                "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+                "name": "Lionsgate",
+                "origin_country": "US"
+            },
+            {
+                "id": 72441,
+                "logo_path": null,
+                "name": "TIK Films",
+                "origin_country": "HK"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "BG",
+                "name": "Bulgaria"
+            },
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            },
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "release_date": "2017-08-16",
+        "revenue": 176586701,
+        "runtime": 118,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "French",
+                "iso_639_1": "fr",
+                "name": "Fran\u00e7ais"
+            },
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "english_name": "Russian",
+                "iso_639_1": "ru",
+                "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Everyone's out to get them... If they don't kill each other first.",
+        "title": "The Hitman's Bodyguard",
+        "video": false,
+        "vote_average": 6.896,
+        "vote_count": 6839,
+        "keywords": {
+            "keywords": [
+                {
+                    "id": 782,
+                    "name": "assassin"
+                },
+                {
+                    "id": 6148,
+                    "name": "court"
+                },
+                {
+                    "id": 392,
+                    "name": "england"
+                },
+                {
+                    "id": 2708,
+                    "name": "hitman"
+                },
+                {
+                    "id": 3088,
+                    "name": "bodyguard"
+                },
+                {
+                    "id": 9935,
+                    "name": "travel"
+                },
+                {
+                    "id": 10562,
+                    "name": "on the run"
+                },
+                {
+                    "id": 15009,
+                    "name": "criminal"
+                },
+                {
+                    "id": 15127,
+                    "name": "killer"
+                },
+                {
+                    "id": 33519,
+                    "name": "courtroom"
+                },
+                {
+                    "id": 165301,
+                    "name": "opposites attract"
+                },
+                {
+                    "id": 167541,
+                    "name": "buddy comedy"
+                },
+                {
+                    "id": 179430,
+                    "name": "aftercreditsstinger"
+                },
+                {
+                    "id": 193415,
+                    "name": "testify"
+                }
+            ]
+        }
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/h5Vxa8BRTeuY2MEu6lnJjv6p2Zr.jpg",
+        "belongs_to_collection": null,
+        "budget": 100000000,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Comedy"
+            },
+            {
+                "id": 16,
+                "name": "Animation"
+            },
+            {
+                "id": 12,
+                "name": "Adventure"
+            },
+            {
+                "id": 10751,
+                "name": "Family"
+            },
+            {
+                "id": 14,
+                "name": "Fantasy"
+            }
+        ],
+        "homepage": "https://www.paramount.com/movies/wonder-park",
+        "id": 400157,
+        "imdb_id": "tt6428676",
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "Wonder Park",
+        "overview": "A young girl named June with a big imagination makes an incredible discovery -- the amusement park of her dreams has come to life. Filled with the world's wildest rides operated by fun-loving animals, the excitement never ends. But when trouble hits, June and her misfit team of furry friends begin an unforgettable journey to save the park.",
+        "popularity": 11.4971,
+        "poster_path": "/8KomINZhIuJeB4oB7k7tkq8tmE.jpg",
+        "production_companies": [
+            {
+                "id": 2348,
+                "logo_path": "/m31fQvZJuUvAgxoqTiCGYFBfZYe.png",
+                "name": "Nickelodeon Movies",
+                "origin_country": "US"
+            },
+            {
+                "id": 24955,
+                "logo_path": "/bX3cYCRWdddXTgIcDEfNiVa8U4j.png",
+                "name": "Paramount Animation",
+                "origin_country": "US"
+            },
+            {
+                "id": 5653,
+                "logo_path": "/lJj4v0DWNy7f0jJKA26Bhz4yjgk.png",
+                "name": "Ilion Animation Studios",
+                "origin_country": "ES"
+            },
+            {
+                "id": 4,
+                "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+                "name": "Paramount Pictures",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "ES",
+                "name": "Spain"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2019-03-13",
+        "revenue": 119559110,
+        "runtime": 86,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Dream Bigger",
+        "title": "Wonder Park",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 787,
+        "keywords": {
+            "keywords": [
+                {
+                    "id": 18165,
+                    "name": "animals"
+                },
+                {
+                    "id": 155582,
+                    "name": "amusement park"
+                },
+                {
+                    "id": 240422,
+                    "name": "wonder"
+                },
+                {
+                    "id": 275041,
+                    "name": "imagination"
+                },
+                {
+                    "id": 278823,
+                    "name": "3d animation"
+                }
+            ]
+        }
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ibgK9YRmUFW774aDVoFvogirg8b.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 10749,
+                "name": "Romance"
+            }
+        ],
+        "homepage": "",
+        "id": 665760,
+        "imdb_id": "tt7583460",
+        "origin_country": [
+            "HR",
+            "CH"
+        ],
+        "original_language": "hr",
+        "original_title": "Mare",
+        "overview": "Routinely, but with dedication, Mare runs her small family\u2019s modest household, even though a new washing machine is not the only thing that is missing. When a chance encounter rekindles her libido, she does not hold back for long.",
+        "popularity": 8.8732,
+        "poster_path": "/2uQBgKCNkFm94R9pHaUnY4zwYlR.jpg",
+        "production_companies": [
+            {
+                "id": 30083,
+                "logo_path": "/2G0FgDEeH1u4ApVjoDr5keQGrz8.png",
+                "name": "Okofilm Productions",
+                "origin_country": "CH"
+            },
+            {
+                "id": 123684,
+                "logo_path": "/gdWPXwP7xcOAZpXCnkP7SyfqQ2l.png",
+                "name": "Dinaridi film",
+                "origin_country": "HR"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "HR",
+                "name": "Croatia"
+            },
+            {
+                "iso_3166_1": "CH",
+                "name": "Switzerland"
+            }
+        ],
+        "release_date": "2020-02-23",
+        "revenue": 0,
+        "runtime": 84,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "english_name": "Croatian",
+                "iso_639_1": "hr",
+                "name": "Hrvatski"
+            },
+            {
+                "english_name": "Polish",
+                "iso_639_1": "pl",
+                "name": "Polski"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Mare",
+        "video": false,
+        "vote_average": 5.1,
+        "vote_count": 18,
+        "keywords": {
+            "keywords": []
+        }
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pnfJrwm84aSWpXAO6tYJY7wKKHI.jpg",
+        "belongs_to_collection": null,
+        "budget": 25000000,
+        "genres": [
+            {
+                "id": 53,
+                "name": "Thriller"
+            },
+            {
+                "id": 80,
+                "name": "Crime"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 109091,
+        "imdb_id": "tt2193215",
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "The Counselor",
+        "overview": "A lawyer finds himself in far over his head when he attempts to get involved in drug trafficking.",
+        "popularity": 12.3682,
+        "poster_path": "/aNiLkGnzVb5CorZHKk16w9S4COt.jpg",
+        "production_companies": [
+            {
+                "id": 711,
+                "logo_path": "/tEiIH5QesdheJmDAqQwvtN60727.png",
+                "name": "Fox 2000 Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 8073,
+                "logo_path": null,
+                "name": "Nick Wechsler Productions",
+                "origin_country": "US"
+            },
+            {
+                "id": 13649,
+                "logo_path": null,
+                "name": "Chockstone Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 22213,
+                "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+                "name": "TSG Entertainment",
+                "origin_country": "US"
+            },
+            {
+                "id": 221347,
+                "logo_path": "/6Ry6uNBaa0IbbSs1XYIgX5DkA9r.png",
+                "name": "Scott Free Productions",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            }
+        ],
+        "release_date": "2013-10-25",
+        "revenue": 71009334,
+        "runtime": 117,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "english_name": "Spanish",
+                "iso_639_1": "es",
+                "name": "Espa\u00f1ol"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Sin is a choice.",
+        "title": "The Counselor",
+        "video": false,
+        "vote_average": 5.293,
+        "vote_count": 2039,
+        "keywords": {
+            "keywords": [
+                {
+                    "id": 3391,
+                    "name": "drug smuggling"
+                },
+                {
+                    "id": 496,
+                    "name": "poetry"
+                },
+                {
+                    "id": 2149,
+                    "name": "drug trafficking"
+                },
+                {
+                    "id": 3880,
+                    "name": "snuff"
+                },
+                {
+                    "id": 10909,
+                    "name": "lawyer"
+                },
+                {
+                    "id": 15011,
+                    "name": "criminal underworld"
+                },
+                {
+                    "id": 183185,
+                    "name": "red dress"
+                }
+            ]
+        }
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3L3DUwfRLW18OUiLSdmovfICyY3.jpg",
+        "belongs_to_collection": {
+            "id": 91799,
+            "name": "Tremors Collection",
+            "poster_path": "/dvNb7S2jXGPfaAZFextA5ojvwrS.jpg",
+            "backdrop_path": "/wZeBvDh9lpGpqHB0FyltARuMSmK.jpg"
+        },
+        "budget": 11000000,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Comedy"
+            },
+            {
+                "id": 27,
+                "name": "Horror"
+            },
+            {
+                "id": 878,
+                "name": "Science Fiction"
+            }
+        ],
+        "homepage": "",
+        "id": 9362,
+        "imdb_id": "tt0100814",
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "Tremors",
+        "overview": "Val McKee and Earl Bassett are in a fight for their lives when they discover that their desolate town has been infested with gigantic, man-eating creatures that live below the ground.",
+        "popularity": 11.0933,
+        "poster_path": "/cA4ggkZ3r1d5r9hOAUWC8x5ul2i.jpg",
+        "production_companies": [
+            {
+                "id": 3851,
+                "logo_path": null,
+                "name": "No Frills Film",
+                "origin_country": "US"
+            },
+            {
+                "id": 145590,
+                "logo_path": null,
+                "name": "Wilson-Maddock Production",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "1990-01-19",
+        "revenue": 48572000,
+        "runtime": 96,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "They say there's nothing new under the sun. But under the ground\u2026",
+        "title": "Tremors",
+        "video": false,
+        "vote_average": 6.949,
+        "vote_count": 3720,
+        "keywords": {
+            "keywords": [
+                {
+                    "id": 1415,
+                    "name": "small town"
+                },
+                {
+                    "id": 1197,
+                    "name": "nevada"
+                },
+                {
+                    "id": 2103,
+                    "name": "old town"
+                },
+                {
+                    "id": 9743,
+                    "name": "stranded"
+                },
+                {
+                    "id": 11004,
+                    "name": "rural area"
+                },
+                {
+                    "id": 13031,
+                    "name": "creature"
+                },
+                {
+                    "id": 14991,
+                    "name": "tentacle"
+                },
+                {
+                    "id": 158064,
+                    "name": "graboids"
+                },
+                {
+                    "id": 158070,
+                    "name": "seismologist"
+                },
+                {
+                    "id": 158071,
+                    "name": "binoculars"
+                },
+                {
+                    "id": 251620,
+                    "name": "town"
+                },
+                {
+                    "id": 252179,
+                    "name": "cursed town"
+                },
+                {
+                    "id": 325765,
+                    "name": "amused"
+                },
+                {
+                    "id": 325766,
+                    "name": "antagonistic"
+                },
+                {
+                    "id": 335868,
+                    "name": "giant worms"
+                },
+                {
+                    "id": 335869,
+                    "name": "old tractor"
+                }
+            ]
+        }
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xXhta1NIKn09IXy0mfp68cabdWS.jpg",
+        "belongs_to_collection": {
+            "id": 569738,
+            "name": "To All the Boys Collection",
+            "poster_path": "/bepYJrdm1avg6cUJcimBO6W2pHs.jpg",
+            "backdrop_path": "/rXBWUDyoujPMcznBsqpetZvWjDF.jpg"
+        },
+        "budget": 0,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Comedy"
+            },
+            {
+                "id": 10749,
+                "name": "Romance"
+            }
+        ],
+        "homepage": "https://www.netflix.com/title/80203147",
+        "id": 466282,
+        "imdb_id": "tt3846674",
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "To All the Boys I've Loved Before",
+        "overview": "Lara Jean's love life goes from imaginary to out of control when her secret letters to every boy she's ever fallen for are mysteriously mailed out.",
+        "popularity": 12.047,
+        "poster_path": "/hKHZhUbIyUAjcSrqJThFGYIR6kI.jpg",
+        "production_companies": [
+            {
+                "id": 63484,
+                "logo_path": "/aVLlAODQm57VkgqWlVAOGiy8zs0.png",
+                "name": "Awesomeness Films",
+                "origin_country": "US"
+            },
+            {
+                "id": 907,
+                "logo_path": "/ca5SWI5uvU985f8Kbb4xc8AmVWH.png",
+                "name": "Overbrook Entertainment",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2018-08-17",
+        "revenue": 0,
+        "runtime": 100,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "The letters are out.",
+        "title": "To All the Boys I've Loved Before",
+        "video": false,
+        "vote_average": 7.59,
+        "vote_count": 8781,
+        "keywords": {
+            "keywords": [
+                {
+                    "id": 6270,
+                    "name": "high school"
+                },
+                {
+                    "id": 818,
+                    "name": "based on novel or book"
+                },
+                {
+                    "id": 3452,
+                    "name": "love letter"
+                },
+                {
+                    "id": 9840,
+                    "name": "romance"
+                },
+                {
+                    "id": 157303,
+                    "name": "first love"
+                },
+                {
+                    "id": 166959,
+                    "name": "lost mother"
+                },
+                {
+                    "id": 187056,
+                    "name": "woman director"
+                },
+                {
+                    "id": 210281,
+                    "name": "sisterhood"
+                },
+                {
+                    "id": 215200,
+                    "name": "pretend relationship"
+                },
+                {
+                    "id": 246466,
+                    "name": "based on young adult novel"
+                },
+                {
+                    "id": 280028,
+                    "name": "asian american"
+                },
+                {
+                    "id": 324429,
+                    "name": "romantic"
+                },
+                {
+                    "id": 325794,
+                    "name": "derogatory"
+                },
+                {
+                    "id": 325844,
+                    "name": "ridiculous"
+                }
+            ]
+        }
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ncVecUcDZe1EOWtHaU2f8BFvbx4.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Comedy"
+            }
+        ],
+        "homepage": "",
+        "id": 1375156,
+        "imdb_id": "tt31806773",
+        "origin_country": [
+            "IN"
+        ],
+        "original_language": "hi",
+        "original_title": "\u0909\u0921\u093c\u0924\u093e \u0924\u0940\u0930",
+        "overview": "An amnesiac Pakistani spy wakes up believing he is a patriotic Indian counter-terrorism officer.",
+        "popularity": 12.822,
+        "poster_path": "/tvICKypVlW7Iio4KVs7NousbSKi.jpg",
+        "production_companies": [
+            {
+                "id": 19146,
+                "logo_path": "/5Ff25ornzVNhm5skuAvMAR556NB.png",
+                "name": "Dharma Productions",
+                "origin_country": "IN"
+            },
+            {
+                "id": 22486,
+                "logo_path": "/a101r8HZ9dk6xvXyFHcEyh73Qpr.png",
+                "name": "Sikhya Entertainment",
+                "origin_country": "IN"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IN",
+                "name": "India"
+            }
+        ],
+        "release_date": "2026-10-09",
+        "revenue": 0,
+        "runtime": 144,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "Hindi",
+                "iso_639_1": "hi",
+                "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+            }
+        ],
+        "status": "Post Production",
+        "tagline": "Deshbhakti yaad hai, par desh nahi",
+        "title": "Udta Teer",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "keywords": {
+            "keywords": [
+                {
+                    "id": 351446,
+                    "name": "spy comedy"
+                }
+            ]
+        }
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bwyLycDaQdS3rS4crpbYssYLJRy.jpg",
+        "belongs_to_collection": null,
+        "budget": 4000000,
+        "genres": [
+            {
+                "id": 878,
+                "name": "Science Fiction"
+            },
+            {
+                "id": 28,
+                "name": "Action"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "homepage": "http://theofficialjohncarpenter.com/they-live",
+        "id": 8337,
+        "imdb_id": "tt0096256",
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "They Live",
+        "overview": "A lone drifter stumbles upon a unique pair of sunglasses that reveal aliens are systematically gaining control of the Earth by masquerading as humans and lulling the public into submission.",
+        "popularity": 11.8714,
+        "poster_path": "/ngnybFTuopfbfmmEeX9jjBQQmF6.jpg",
+        "production_companies": [
+            {
+                "id": 17823,
+                "logo_path": null,
+                "name": "Alive Films",
+                "origin_country": "US"
+            },
+            {
+                "id": 17824,
+                "logo_path": null,
+                "name": "Larry Franco Productions",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "1988-11-04",
+        "revenue": 13000000,
+        "runtime": 93,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "You see them on the street. You watch them on TV. You might even vote for one this fall. You think they're people just like you. You're wrong. Dead wrong.",
+        "title": "They Live",
+        "video": false,
+        "vote_average": 7.311,
+        "vote_count": 3659,
+        "keywords": {
+            "keywords": [
+                {
+                    "id": 592,
+                    "name": "capitalism"
+                },
+                {
+                    "id": 4565,
+                    "name": "dystopia"
+                },
+                {
+                    "id": 9990,
+                    "name": "villainess"
+                },
+                {
+                    "id": 9951,
+                    "name": "alien"
+                },
+                {
+                    "id": 11479,
+                    "name": "social commentary"
+                },
+                {
+                    "id": 12670,
+                    "name": "los angeles, california"
+                },
+                {
+                    "id": 14909,
+                    "name": "alien invasion"
+                },
+                {
+                    "id": 15208,
+                    "name": "biting"
+                },
+                {
+                    "id": 15211,
+                    "name": "sunglasses"
+                },
+                {
+                    "id": 41405,
+                    "name": "glasses"
+                },
+                {
+                    "id": 174244,
+                    "name": "brawl"
+                },
+                {
+                    "id": 202371,
+                    "name": "aggressive"
+                },
+                {
+                    "id": 210434,
+                    "name": "thoughtful"
+                },
+                {
+                    "id": 212737,
+                    "name": "philosophical"
+                },
+                {
+                    "id": 249732,
+                    "name": "subliminal message"
+                },
+                {
+                    "id": 273439,
+                    "name": "aliens"
+                },
+                {
+                    "id": 298530,
+                    "name": "conspiracy thriller"
+                },
+                {
+                    "id": 309974,
+                    "name": "absurd"
+                },
+                {
+                    "id": 320420,
+                    "name": "hilarious"
+                },
+                {
+                    "id": 323141,
+                    "name": "fist fight"
+                },
+                {
+                    "id": 325811,
+                    "name": "excited"
+                },
+                {
+                    "id": 337327,
+                    "name": "anti-consumerism"
+                },
+                {
+                    "id": 342626,
+                    "name": "b-horror"
+                },
+                {
+                    "id": 359767,
+                    "name": "interspecies sex"
+                }
+            ]
+        }
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/z1Z1vW3bu27UUXD70vyqAcCeXU1.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Comedy"
+            }
+        ],
+        "homepage": "https://tv.apple.com/movie/umc.cmc.5tugaz9vt498ajn7q64ypaqxn",
+        "id": 1361774,
+        "imdb_id": "tt33499146",
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "The Dink",
+        "overview": "Desperate to save a struggling country club and earn his father's respect, a washed-up tennis pro is compelled to break a sacred vow and do the unthinkable: play pickleball.",
+        "popularity": 11.1406,
+        "poster_path": "/8dq7vaUkXPqwqKxBFW4qJNBWeop.jpg",
+        "production_companies": [
+            {
+                "id": 2932,
+                "logo_path": "/4uLKLjGivVg2YnAIhAn8k7ZuVFj.png",
+                "name": "Red Hour",
+                "origin_country": "US"
+            },
+            {
+                "id": 156327,
+                "logo_path": null,
+                "name": "Rivulet Entertainment",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2026-07-23",
+        "revenue": 0,
+        "runtime": 103,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "The Dink",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 147,
+        "keywords": {
+            "keywords": [
+                {
+                    "id": 6075,
+                    "name": "sports"
+                },
+                {
+                    "id": 1488,
+                    "name": "tennis"
+                },
+                {
+                    "id": 2367,
+                    "name": "rehabilitation"
+                },
+                {
+                    "id": 228041,
+                    "name": "prodigy"
+                },
+                {
+                    "id": 309176,
+                    "name": "washed up"
+                },
+                {
+                    "id": 335806,
+                    "name": "sports comedy"
+                },
+                {
+                    "id": 353640,
+                    "name": "pickleball"
+                }
+            ]
+        }
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dMERTVrObB7TkRVIFmcndR2sZFH.jpg",
+        "belongs_to_collection": null,
+        "budget": 15000000,
+        "genres": [
+            {
+                "id": 53,
+                "name": "Thriller"
+            },
+            {
+                "id": 878,
+                "name": "Science Fiction"
+            },
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 27,
+                "name": "Horror"
+            }
+        ],
+        "homepage": "https://www.paramountpictures.com/movies/10-cloverfield-lane",
+        "id": 333371,
+        "imdb_id": "tt1179933",
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "10 Cloverfield Lane",
+        "overview": "After a catastrophic car crash, a young woman wakes up in a survivalist's underground bunker, where he claims to have saved her from an apocalyptic attack that has left the outside world uninhabitable.",
+        "popularity": 12.7515,
+        "poster_path": "/q8A39vcBDruhvoDTJd6L8a4lnTi.jpg",
+        "production_companies": [
+            {
+                "id": 11461,
+                "logo_path": "/p9FoEt5shEKRWRKVIlvFaEmRnun.png",
+                "name": "Bad Robot",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2016-03-10",
+        "revenue": 110216998,
+        "runtime": 104,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Monsters come in many forms.",
+        "title": "10 Cloverfield Lane",
+        "video": false,
+        "vote_average": 7.011,
+        "vote_count": 8959,
+        "keywords": {
+            "keywords": [
+                {
+                    "id": 1930,
+                    "name": "kidnapping"
+                },
+                {
+                    "id": 2340,
+                    "name": "paranoia"
+                },
+                {
+                    "id": 2321,
+                    "name": "bunker"
+                },
+                {
+                    "id": 9866,
+                    "name": "basement"
+                },
+                {
+                    "id": 10833,
+                    "name": "survivalist"
+                },
+                {
+                    "id": 12332,
+                    "name": "apocalypse"
+                },
+                {
+                    "id": 13063,
+                    "name": "car accident"
+                },
+                {
+                    "id": 15381,
+                    "name": "captive"
+                }
+            ]
+        }
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nr5smF4avc77lhWHNcGLF7guXv1.jpg",
+        "belongs_to_collection": null,
+        "budget": 10000000,
+        "genres": [
+            {
+                "id": 27,
+                "name": "Horror"
+            },
+            {
+                "id": 9648,
+                "name": "Mystery"
+            }
+        ],
+        "homepage": "",
+        "id": 465086,
+        "imdb_id": "tt3612126",
+        "origin_country": [
+            "CA",
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "The Grudge",
+        "overview": "After a young mother murders her family in her own house, a detective attempts to investigate the mysterious case, only to discover that the house is cursed by a vengeful ghost. Now targeted by the demonic spirits, the detective must do anything to protect herself and her family from harm.",
+        "popularity": 11.7067,
+        "poster_path": "/vN7JHlHOT9rHNDU27tfYqhABBj5.jpg",
+        "production_companies": [
+            {
+                "id": 768,
+                "logo_path": "/mh0PD5vYwRIL5FoN9vgF2ULokSV.png",
+                "name": "Ghost House Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 17393,
+                "logo_path": "/k28sCof6kheeOicLqL6EXX2GHov.png",
+                "name": "Good Universe",
+                "origin_country": "US"
+            },
+            {
+                "id": 11341,
+                "logo_path": "/eZuaGAonSPXsmXR44huTBXgPUSd.png",
+                "name": "Stage 6 Films",
+                "origin_country": "US"
+            },
+            {
+                "id": 3287,
+                "logo_path": "/bz6GbCQQXGNE56LTW9dwgksW0Iw.png",
+                "name": "Screen Gems",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2019-12-31",
+        "revenue": 49511319,
+        "runtime": 94,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "It'll never let you go.",
+        "title": "The Grudge",
+        "video": false,
+        "vote_average": 5.403,
+        "vote_count": 1350,
+        "keywords": {
+            "keywords": [
+                {
+                    "id": 233,
+                    "name": "japan"
+                },
+                {
+                    "id": 3358,
+                    "name": "haunted house"
+                },
+                {
+                    "id": 9714,
+                    "name": "remake"
+                },
+                {
+                    "id": 9872,
+                    "name": "grief"
+                },
+                {
+                    "id": 10541,
+                    "name": "curse"
+                },
+                {
+                    "id": 155546,
+                    "name": "female police officer"
+                },
+                {
+                    "id": 161184,
+                    "name": "reboot"
+                },
+                {
+                    "id": 192044,
+                    "name": "ju-on"
+                },
+                {
+                    "id": 199524,
+                    "name": "disturbed"
+                },
+                {
+                    "id": 252104,
+                    "name": "2000s"
+                },
+                {
+                    "id": 256183,
+                    "name": "supernatural horror"
+                },
+                {
+                    "id": 325777,
+                    "name": "bewildered"
+                },
+                {
+                    "id": 325787,
+                    "name": "complicated"
+                },
+                {
+                    "id": 325825,
+                    "name": "horrified"
+                }
+            ]
+        }
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xnGBwwD9QjeQeRKzDEVp0cNAEFe.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 10749,
+                "name": "Romance"
+            },
+            {
+                "id": 35,
+                "name": "Comedy"
+            }
+        ],
+        "homepage": "",
+        "id": 1529372,
+        "imdb_id": "tt39528902",
+        "origin_country": [
+            "IN"
+        ],
+        "original_language": "hi",
+        "original_title": "\u0921\u094b\u0902\u091f \u092c\u0940 \u0936\u093e\u092f!",
+        "overview": "Quintessential Mean Girl, Shyamili \u2018Shy\u2019 Das, finds herself suddenly relegated to Loser-ville when Mayank, her boyfriend of three years, suddenly dumps her. But Shy, all set to get her revenge, finds herself falling into friendship and compassion with someone unexpected\u2026 Mayank\u2019s new girlfriend - Tara.",
+        "popularity": 11.6748,
+        "poster_path": "/lBeDq7KmZaQNnnIXgExCAmfLMqT.jpg",
+        "production_companies": [
+            {
+                "id": 93864,
+                "logo_path": "/36sZQJJL4msWIMpCiO9CiElvewF.png",
+                "name": "Eternal Sunshine Productions",
+                "origin_country": "IN"
+            },
+            {
+                "id": 175199,
+                "logo_path": "/1z6GzyUVT9QnD1DEV1AoASZ83b7.png",
+                "name": "Chalkboard Entertainment",
+                "origin_country": "IN"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "IN",
+                "name": "India"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2026-09-25",
+        "revenue": 0,
+        "runtime": 149,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "Hindi",
+                "iso_639_1": "hi",
+                "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+            },
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Don't Be Shy!",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 1,
+        "keywords": {
+            "keywords": [
+                {
+                    "id": 325762,
+                    "name": "adoring"
+                }
+            ]
+        }
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2vcdZBbf7sPPzIHfN5ial24UbxK.jpg",
+        "belongs_to_collection": null,
+        "budget": 105000000,
+        "genres": [
+            {
+                "id": 28,
+                "name": "Action"
+            },
+            {
+                "id": 12,
+                "name": "Adventure"
+            },
+            {
+                "id": 878,
+                "name": "Science Fiction"
+            }
+        ],
+        "homepage": "https://www.lionsgate.com/movies/power-rangers",
+        "id": 305470,
+        "imdb_id": "tt3717490",
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "Power Rangers",
+        "overview": "Five ordinary teens must become something extraordinary when they learn that their small town of Angel Grove \u2014 and the world \u2014 is on the verge of being obliterated by an alien threat. Chosen by destiny, our heroes quickly discover they are the only ones who can save the planet. But to do so, they will have to overcome their real-life issues and before it\u2019s too late, band together as the Power Rangers.",
+        "popularity": 12.7712,
+        "poster_path": "/bKYKyyIv5YnisxjZtDreWtYA386.jpg",
+        "production_companies": [
+            {
+                "id": 1632,
+                "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+                "name": "Lionsgate",
+                "origin_country": "US"
+            },
+            {
+                "id": 11305,
+                "logo_path": "/eZdOsxUSUtrEVdr5DY5zpkTf4Ks.png",
+                "name": "Saban Brands",
+                "origin_country": "US"
+            },
+            {
+                "id": 76992,
+                "logo_path": "/mw3j3P8SUQJKLSJQrLKuSDO9Xr6.png",
+                "name": "Saban Films",
+                "origin_country": "US"
+            },
+            {
+                "id": 12292,
+                "logo_path": "/5J93SHsuvIV32AE9oSbMi02pqw9.png",
+                "name": "Temple Hill Entertainment",
+                "origin_country": "US"
+            },
+            {
+                "id": 72441,
+                "logo_path": null,
+                "name": "TIK Films",
+                "origin_country": "HK"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            },
+            {
+                "iso_3166_1": "HK",
+                "name": "Hong Kong"
+            }
+        ],
+        "release_date": "2017-03-23",
+        "revenue": 142300000,
+        "runtime": 124,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Together we are more.",
+        "title": "Power Rangers",
+        "video": false,
+        "vote_average": 6.242,
+        "vote_count": 4741,
+        "keywords": {
+            "keywords": [
+                {
+                    "id": 1612,
+                    "name": "spacecraft"
+                },
+                {
+                    "id": 2803,
+                    "name": "affectation"
+                },
+                {
+                    "id": 6733,
+                    "name": "bullying"
+                },
+                {
+                    "id": 33637,
+                    "name": "super power"
+                },
+                {
+                    "id": 155030,
+                    "name": "superhero team"
+                },
+                {
+                    "id": 158718,
+                    "name": "lgbt"
+                },
+                {
+                    "id": 161184,
+                    "name": "reboot"
+                },
+                {
+                    "id": 166726,
+                    "name": "female villain"
+                },
+                {
+                    "id": 173577,
+                    "name": "ethnic diversity"
+                },
+                {
+                    "id": 269769,
+                    "name": "based on tv series"
+                },
+                {
+                    "id": 325781,
+                    "name": "celebratory"
+                },
+                {
+                    "id": 325784,
+                    "name": "comforting"
+                }
+            ]
+        }
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/s5BvDOLava3Z8NjAOnT0Xe96iLS.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 10749,
+                "name": "Romance"
+            },
+            {
+                "id": 14,
+                "name": "Fantasy"
+            }
+        ],
+        "homepage": "",
+        "id": 436343,
+        "imdb_id": "tt5607714",
+        "origin_country": [
+            "HU"
+        ],
+        "original_language": "hu",
+        "original_title": "Testr\u0151l \u00e9s l\u00e9lekr\u0151l",
+        "overview": "Two introverted people find out by pure chance that they share the same dream every night. They are puzzled, incredulous, a bit frightened. As they hesitantly accept this strange coincidence, they try to recreate in broad daylight what happens in their dream.",
+        "popularity": 10.9078,
+        "poster_path": "/uguWEoZelSSckxgiQctlkZ6gpfU.jpg",
+        "production_companies": [
+            {
+                "id": 11008,
+                "logo_path": "/ygmbJsCJjgzIIYrJSj9grhDCYFu.png",
+                "name": "Inforg-M&M Film",
+                "origin_country": "HU"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "HU",
+                "name": "Hungary"
+            }
+        ],
+        "release_date": "2017-03-02",
+        "revenue": 0,
+        "runtime": 116,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "Hungarian",
+                "iso_639_1": "hu",
+                "name": "Magyar"
+            }
+        ],
+        "status": "Released",
+        "tagline": "We meet at night. In our dreams.",
+        "title": "On Body and Soul",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 635,
+        "keywords": {
+            "keywords": [
+                {
+                    "id": 11547,
+                    "name": "slaughterhouse"
+                },
+                {
+                    "id": 40932,
+                    "name": "dream interpretation"
+                },
+                {
+                    "id": 160840,
+                    "name": "dream sequence"
+                },
+                {
+                    "id": 171854,
+                    "name": "betrayal by friend"
+                },
+                {
+                    "id": 195593,
+                    "name": "physical disability"
+                },
+                {
+                    "id": 238305,
+                    "name": "fear of contact"
+                }
+            ]
+        }
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/e7jIX02GiSwsgkU5lMpeKjwq2Zc.jpg",
+        "belongs_to_collection": null,
+        "budget": 78000000,
+        "genres": [
+            {
+                "id": 14,
+                "name": "Fantasy"
+            },
+            {
+                "id": 28,
+                "name": "Action"
+            }
+        ],
+        "homepage": "http://marvel.com/movies/movie/12/daredevil",
+        "id": 9480,
+        "imdb_id": "tt0287978",
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "Daredevil",
+        "overview": "By day, blind attorney Matt Murdock toils for justice in Hell's Kitchen. By night, he's Daredevil, The Man Without Fear - a powerful, masked vigilante stalking the dark streets with an uncanny \"radar sense\" that allows him to \"see\" with superhuman capabilities. But when the love of his life, fiery Elektra Natchios, is targeted by New York City's ruthless Kingpin of crime and his deadly assassin Bullseye, Daredevil may be about to meet his match.",
+        "popularity": 12.372,
+        "poster_path": "/oCDBwSkntYamuw8VJIxMRCtDBmi.jpg",
+        "production_companies": [
+            {
+                "id": 19551,
+                "logo_path": "/2WpWp9b108hizjHKdA107hFmvQ5.png",
+                "name": "Marvel Enterprises",
+                "origin_country": "US"
+            },
+            {
+                "id": 10104,
+                "logo_path": "/4sGWXoboEkWPphI6es6rTmqkCBh.png",
+                "name": "New Regency Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 1171,
+                "logo_path": "/wp7NwsxxHT8sqPaek6SlxnXlkP4.png",
+                "name": "Epsilon Motion Pictures",
+                "origin_country": "CH"
+            },
+            {
+                "id": 508,
+                "logo_path": "/4sGWXoboEkWPphI6es6rTmqkCBh.png",
+                "name": "Regency Enterprises",
+                "origin_country": "US"
+            },
+            {
+                "id": 25,
+                "logo_path": "/nM2MfoMqzJQRiSynsDabOtFKetD.png",
+                "name": "20th Century Fox",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "CH",
+                "name": "Switzerland"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2003-02-14",
+        "revenue": 179179718,
+        "runtime": 103,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "english_name": "Italian",
+                "iso_639_1": "it",
+                "name": "Italiano"
+            },
+            {
+                "english_name": "Greek",
+                "iso_639_1": "el",
+                "name": "\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac"
+            }
+        ],
+        "status": "Released",
+        "tagline": "When the streets have gone to Hell, have faith in the devil.",
+        "title": "Daredevil",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 5616,
+        "keywords": {
+            "keywords": [
+                {
+                    "id": 242,
+                    "name": "new york city"
+                },
+                {
+                    "id": 1741,
+                    "name": "blindness and impaired vision"
+                },
+                {
+                    "id": 2398,
+                    "name": "narration"
+                },
+                {
+                    "id": 9715,
+                    "name": "superhero"
+                },
+                {
+                    "id": 9717,
+                    "name": "based on comic"
+                },
+                {
+                    "id": 12660,
+                    "name": "blind"
+                },
+                {
+                    "id": 175186,
+                    "name": "hazardous waste"
+                },
+                {
+                    "id": 175208,
+                    "name": "mob hit"
+                },
+                {
+                    "id": 179431,
+                    "name": "duringcreditsstinger"
+                },
+                {
+                    "id": 264730,
+                    "name": "hell's kitchen"
+                },
+                {
+                    "id": 321464,
+                    "name": "intense"
+                },
+                {
+                    "id": 325778,
+                    "name": "bold"
+                },
+                {
+                    "id": 325856,
+                    "name": "vibrant"
+                }
+            ]
+        }
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qVzmXKKOTtd3szkiCheCNrfa394.jpg",
+        "belongs_to_collection": null,
+        "budget": 65000000,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 80,
+                "name": "Crime"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "homepage": "",
+        "id": 1538,
+        "imdb_id": "tt0369339",
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "Collateral",
+        "overview": "Cab driver Max picks up a man who offers him $600 to drive him around. But the promise of easy money sours when Max realizes his fare is an assassin.",
+        "popularity": 11.9967,
+        "poster_path": "/nV5316WUsVij8sVXLCF1g7TFitg.jpg",
+        "production_companies": [
+            {
+                "id": 4,
+                "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+                "name": "Paramount Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 11463,
+                "logo_path": null,
+                "name": "Edge City",
+                "origin_country": "US"
+            },
+            {
+                "id": 7,
+                "logo_path": "/zcKhWbxFJ4CohZ9dLBMxmOArTVn.png",
+                "name": "DreamWorks Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 384,
+                "logo_path": "/bDMfnqaEqGY9KlV4RMm2QHJCm2v.png",
+                "name": "Parkes+MacDonald Production",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2004-08-04",
+        "revenue": 220239925,
+        "runtime": 120,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "Spanish",
+                "iso_639_1": "es",
+                "name": "Espa\u00f1ol"
+            },
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "It started like any other night.",
+        "title": "Collateral",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 6518,
+        "keywords": {
+            "keywords": [
+                {
+                    "id": 444,
+                    "name": "taxi"
+                },
+                {
+                    "id": 6149,
+                    "name": "police"
+                },
+                {
+                    "id": 2708,
+                    "name": "hitman"
+                },
+                {
+                    "id": 1562,
+                    "name": "hostage"
+                },
+                {
+                    "id": 476,
+                    "name": "self-fulfilling prophecy"
+                },
+                {
+                    "id": 1749,
+                    "name": "taxi driver"
+                },
+                {
+                    "id": 1812,
+                    "name": "fbi"
+                },
+                {
+                    "id": 2334,
+                    "name": "nightclub"
+                },
+                {
+                    "id": 11435,
+                    "name": "briefcase"
+                },
+                {
+                    "id": 9740,
+                    "name": "sociopath"
+                },
+                {
+                    "id": 13008,
+                    "name": "train"
+                },
+                {
+                    "id": 15099,
+                    "name": "professional hit"
+                },
+                {
+                    "id": 162914,
+                    "name": "one night"
+                },
+                {
+                    "id": 163656,
+                    "name": "gun violence"
+                },
+                {
+                    "id": 167377,
+                    "name": "lapd"
+                },
+                {
+                    "id": 177964,
+                    "name": "contract killer"
+                },
+                {
+                    "id": 207268,
+                    "name": "neo-noir"
+                },
+                {
+                    "id": 207413,
+                    "name": "cabbie"
+                },
+                {
+                    "id": 208156,
+                    "name": "frantic"
+                },
+                {
+                    "id": 220205,
+                    "name": "federal prosecutor"
+                },
+                {
+                    "id": 261264,
+                    "name": "dreary"
+                },
+                {
+                    "id": 279362,
+                    "name": "taxi ride"
+                },
+                {
+                    "id": 310324,
+                    "name": "car"
+                },
+                {
+                    "id": 319190,
+                    "name": "suspense thriller"
+                },
+                {
+                    "id": 324757,
+                    "name": "los angeles airport (lax)"
+                },
+                {
+                    "id": 325778,
+                    "name": "bold"
+                }
+            ]
+        }
+    }
+]
