@@ -23,6 +23,7 @@ class DataCleaning:
         data_df["release_date"] = pd.to_datetime(data_df["release_date"], errors="coerce")
         #drop null date
         data_df = data_df.dropna(subset=["release_date"])
+        data_df["has_budget"] = data_df["budget"] > 0
 
         #separation of columns between numeric and categories and texts
         nums_col = data_df.select_dtypes(include=["number"]).columns
