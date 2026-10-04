@@ -6,6 +6,7 @@ from database.MongoDBConnection import MongoDBConnection
 from notebooks.Visualisation import Visualisation
 from services.feature_engineering.FeatureEngineer import FeatureEngineer
 from services.feature_engineering.TextFeatureExtractor import TextFeatureExtractor
+from src.models.Classifier import Classifier
 from pathlib import Path
 from json import load , dump
 import os
@@ -92,6 +93,21 @@ def main():
 
     print("="*50)
     print("         FIN TF-IDF          ")
+    print("="*50)
+
+    print("="*50)
+    print("         Strating Classifier          ")
+    print("="*50)
+
+    threshold = new_data["vote_count"].quantile(0.75)
+    new_data["high_engagement"] = (new_data["vote_count"] > threshold).astype(int)
+    new_data = new_data.drop(columns=["vote_count"])
+    classifier = Classifier(random_state=42)
+    classifier.train(new_data, target_col="high_engagement", text_col="overview")
+    classifier.save_best_model("models/best_model/best_model.joblib")
+
+    print("="*50)
+    print("         END Classifier          ")
     print("="*50)
 
 if __name__ == "__main__":
