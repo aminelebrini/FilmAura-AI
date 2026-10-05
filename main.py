@@ -6,7 +6,8 @@ from database.MongoDBConnection import MongoDBConnection
 from notebooks.Visualisation import Visualisation
 from services.feature_engineering.FeatureEngineer import FeatureEngineer
 from services.feature_engineering.TextFeatureExtractor import TextFeatureExtractor
-from src.models.Classifier import Classifier
+from models.Classifier import Classifier
+from models.evaluation.Evaluator import Evaluator
 from pathlib import Path
 from json import load , dump
 import os
@@ -105,10 +106,34 @@ def main():
     classifier = Classifier(random_state=42)
     classifier.train(new_data, target_col="high_engagement", text_col="overview")
     classifier.save_best_model("models/best_model/best_model.joblib")
-
+    best_pipline = classifier.best_pipline
     print("="*50)
     print("         END Classifier          ")
     print("="*50)
 
+    print("="*50)
+    print("         Starting Evaluation          ")
+    print("="*50)
+
+    params_gridSearch_cv_logistic_regression = {
+        'classifier__C': [0.01, 0.1, 1.0, 10.0],
+        'classifier__solver': ['saga'],
+        'classifier__penalty': ['elasticnet'],
+        'classifier__l1_ratio': [0.0, 0.5, 1.0],
+        'classifier__max_iter': [1000]
+    }
+    X = new_data.drop(columns=["high_engagement", "vote_count"], errors="ignore")
+    Y = new_data["high_engagement"]
+    evaluator = Evaluator(best_pipline)
+    evaluation = evaluator.evaluate(X=X,y=Y,cv=5)
+    print(evaluation)
+    final_evaluation_result = evaluator.best_params_by_grid_searchcv(X=X,y=Y,
+        params_grid_search=params_gridSearch_cv_logistic_regression,scoring="f1", save_path="models/best_model/best_model.joblib")
+
+    print(final_evaluation_result)
+
+    print("="*50)
+    print("         End Evaluation          ")
+    print("="*50)
 if __name__ == "__main__":
     main()
