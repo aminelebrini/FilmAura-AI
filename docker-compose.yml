@@ -29,7 +29,10 @@ services:
       retries: 5
 
   airflow:
-    build: .
+    build:
+      context: .
+      args:
+        REQUIREMENTS_FILE: requirements-airflow.txt
     restart: unless-stopped
     depends_on:
       mongodb:
