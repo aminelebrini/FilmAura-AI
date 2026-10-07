@@ -7,7 +7,10 @@ from notebooks.Visualisation import Visualisation
 from services.feature_engineering.FeatureEngineer import FeatureEngineer
 from services.feature_engineering.TextFeatureExtractor import TextFeatureExtractor
 from models.Classifier import Classifier
+from models.clustring.Kmeans import Kmeans
+from models.clustring.DBScan import DBScan
 from models.evaluation.Evaluator import Evaluator
+from models.evaluation.clustring_evaluation.ClustringEvaluator import ClustringEvaluator
 from pathlib import Path
 from json import load , dump
 import os
@@ -104,7 +107,9 @@ def main():
     new_data["high_engagement"] = (new_data["vote_count"] > threshold).astype(int)
     new_data = new_data.drop(columns=["vote_count"])
     classifier = Classifier(random_state=42)
-    classifier.train(new_data, target_col="high_engagement", text_col="overview")
+    data = classifier.train(new_data, target_col="high_engagement", text_col="overview")
+
+    # print(data)
     classifier.save_best_model("models/best_model/best_model.joblib")
     best_pipline = classifier.best_pipline
     print("="*50)
@@ -135,5 +140,62 @@ def main():
     print("="*50)
     print("         End Evaluation          ")
     print("="*50)
+
+    print("="*50)
+    print("         Starting Clustering          ")
+    print("="*50)
+
+    print("="*50)
+    print("         Starting KMeans Clustering          ")
+    print("="*50)
+    nums_cols = (new_data.select_dtypes(include=["number"]).columns.drop(["high_engagement", "vote_count"], errors="ignore").to_list())
+    text_col = "overview"
+    kmeans = Kmeans(n_clusters=5, max_iter=300, random_state=42)
+    labels = kmeans.train(nums_cols=nums_cols, text_col=text_col, df=new_data)
+    predictions = kmeans.predict(new_data.drop(columns=["high_engagement", "vote_count"], errors="ignore"))
+    centroids = kmeans.get_centroids()
+    print("Clustering Labels:", labels)
+    print("Clustering Predictions:", predictions)
+    print("Clustering Centroids:", centroids)
+    print("="*50)
+    print("         End KMeans Clustering          ")   
+    print("="*50)
+
+    print("="*50)
+    print("         Starting DBScan Clustering          ")
+    print("="*50)
+    dbscan = DBScan()
+    dbscan_labels = dbscan.train(nums_cols=nums_cols, text_col=text_col, df=new_data)
+    dbscan_predictions = dbscan.predict(new_data.drop(columns=["high_engagement", "vote_count"], errors="ignore"))
+    dbscan_core_samples = dbscan.get_core_samples()
+    print("DBScan Clustering Labels:", dbscan_labels)
+    print("DBScan Clustering Predictions:", dbscan_predictions)
+    print("DBScan Clustering Core Samples:", dbscan_core_samples)
+
+    print("="*50)
+    print("         End DBScan Clustering          ")
+    print("="*50)
+
+    print("="*50)
+    print("         End Clustering          ")
+    print("="*50)
+
+    print("="*50)
+    print("         Starting Evaluation of Clustering            ")
+    print("="*50)
+
+    models = {
+        "KMeans": kmeans,
+        "DBScan": dbscan
+    }
+
+    clustering_evaluator = ClustringEvaluator(models=models)
+    clustering_evaluation_result = clustering_evaluator.evaluate(new_data.drop(columns=["high_engagement", "vote_count"], errors="ignore"))
+    print(clustering_evaluation_result)
+    print("="*50)
+    print("         End Evaluation of Clustering            ")
+    print("="*50)
+
+    # print(new_data)
 if __name__ == "__main__":
     main()

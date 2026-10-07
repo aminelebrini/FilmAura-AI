@@ -117,7 +117,9 @@ class Classifier:
 
         results_df = pd.DataFrame(summary)
 
+        # print(X["overview"].head())
         return results_df
+    
 
 
     def save_best_model(self, file_path: str):
@@ -126,7 +128,7 @@ class Classifier:
             if dir_name and not os.path.exists(dir_name):
                 os.makedirs(dir_name, exist_ok=True)
 
-            joblib.dump(self.best_pipeline, file_path)
+            joblib.dump(self.best_pipline, file_path)
             print(f"Best model '{self.best_model_name}' saved successfully to"
             f" {file_path}"
             )

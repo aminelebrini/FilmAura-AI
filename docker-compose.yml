@@ -1,0 +1,55 @@
+services:
+  app:
+    build: .
+    depends_on:
+      mongodb:
+        condition: service_healthy
+    ports:
+      - "8501:8501"
+    volumes:
+      - .:/opt/filmaura
+    environment:
+      PYTHONPATH: /opt/filmaura
+      MONGO_HOST: mongodb
+      MONGO_PORT: "27017"
+      MONGO_DB_NAME: filmaura_db
+    command: streamlit run dashboard/app.py --server.address=0.0.0.0 --server.port=8501
+
+  mongodb:
+    image: mongo:7
+    restart: unless-stopped
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongodb_data:/data/db
+    healthcheck:
+      test: [ "CMD", "mongosh", "--quiet", "--eval", "db.runCommand({ ping: 1 }).ok" ]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  airflow:
+    build: .
+    restart: unless-stopped
+    depends_on:
+      mongodb:
+        condition: service_healthy
+    ports:
+      - "8080:8080"
+    volumes:
+      - .:/opt/filmaura
+      - airflow_data:/opt/airflow
+    environment:
+      AIRFLOW_HOME: /opt/airflow
+      AIRFLOW__CORE__DAGS_FOLDER: /opt/filmaura/dags
+      AIRFLOW__CORE__LOAD_EXAMPLES: "false"
+      AIRFLOW__CORE__EXECUTOR: SequentialExecutor
+      PYTHONPATH: /opt/filmaura
+      MONGO_HOST: mongodb
+      MONGO_PORT: "27017"
+      MONGO_DB_NAME: filmaura_db
+    command: airflow standalone
+
+volumes:
+  mongodb_data:
+  airflow_data:

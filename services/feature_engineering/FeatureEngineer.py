@@ -31,10 +31,7 @@ class FeatureEngineer:
             right=False
         )
 
-        if data_frame['homepage'] is not None:
-            data_frame['has_homepage'] = True
-        else:
-            data_frame['has_homepage'] = False
+        data_frame['has_homepage'] = data_frame['homepage'].fillna('').astype(str).str.strip().ne('')
 
         data_frame['is_multilingual'] = data_frame['spoken_languages'].apply(
             lambda x: True if len(x) > 1 and isinstance(x, list) else False
