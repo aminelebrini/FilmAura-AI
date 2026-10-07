@@ -36,8 +36,8 @@ def main():
     bronze_path = BASE_DIR / "data" / "bronze" / "data_bronze.json"
     silver_path = BASE_DIR / "data" / "silver" / "data_silver.json"
     gold_path = BASE_DIR / "data" / "gold" / "data_gold.json"
-    # result = data_extractor.extract_all_data(100)
-    # data_load.load_silver_data(result)
+    result = data_extractor.extract_all_data(500)
+    data_load.load_data(result, bronze_path)
     with open(bronze_path, "r") as f:
             films_data = load(f)
     
@@ -46,13 +46,13 @@ def main():
     cleaned_data_to_silver["release_date"] = cleaned_data_to_silver["release_date"].dt.strftime("%Y-%m-%d")
     cleaned_data = cleaned_data_to_silver.to_dict(orient="records")
     print(cleaned_data)
-    # with open(silver_path, "w", encoding="utf-8") as f:
-    #     dump(cleaned_data, f, ensure_ascii=False, indent=4)
+    with open(silver_path, "w", encoding="utf-8") as f:
+        dump(cleaned_data, f, ensure_ascii=False, indent=4)
 
-    # db_connection = MongoDBConnection(host, port, db_name)
-    # db_connection.connect()
-    # db_service = MongoDBService(db_connection, "movies")
-    # db_service.load_data_to_db(cleaned_data_to_silver)
+    db_connection = MongoDBConnection(host, port, db_name)
+    db_connection.connect()
+    db_service = MongoDBService(db_connection, "movies")
+    db_service.load_data_to_db(cleaned_data_to_silver)
     
     
 
@@ -120,20 +120,34 @@ def main():
     print("         Starting Evaluation          ")
     print("="*50)
 
-    params_gridSearch_cv_logistic_regression = {
-        'classifier__C': [0.01, 0.1, 1.0, 10.0],
-        'classifier__solver': ['saga'],
-        'classifier__penalty': ['elasticnet'],
-        'classifier__l1_ratio': [0.0, 0.5, 1.0],
-        'classifier__max_iter': [1000]
+    params_grid_by_model = {
+        "Logistic Regression": {
+            "classifier__C": [0.01, 0.1, 1.0, 10.0],
+            "classifier__solver": ["saga"],
+            "classifier__penalty": ["elasticnet"],
+            "classifier__l1_ratio": [0.0, 0.5, 1.0],
+            "classifier__max_iter": [1000],
+        },
+        "Random Forest": {
+            "classifier__n_estimators": [100, 200],
+            "classifier__max_depth": [None, 10, 20],
+            "classifier__min_samples_split": [2, 5],
+        },
+        "Linear SVM": {
+            "classifier__C": [0.01, 0.1, 1.0, 10.0],
+            "classifier__penalty": ["l2"],
+            "classifier__loss": ["squared_hinge"],
+            "classifier__max_iter": [1000],
+        },
     }
+    params_grid_search = params_grid_by_model[classifier.best_model_name]
     X = new_data.drop(columns=["high_engagement", "vote_count"], errors="ignore")
     Y = new_data["high_engagement"]
     evaluator = Evaluator(best_pipline)
     evaluation = evaluator.evaluate(X=X,y=Y,cv=5)
     print(evaluation)
     final_evaluation_result = evaluator.best_params_by_grid_searchcv(X=X,y=Y,
-        params_grid_search=params_gridSearch_cv_logistic_regression,scoring="f1", save_path="models/best_model/best_model.joblib")
+        params_grid_search=params_grid_search,scoring="f1", save_path="models/best_model/best_model.joblib")
 
     print(final_evaluation_result)
 

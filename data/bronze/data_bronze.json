@@ -1,124 +1,49 @@
 [
     {
         "adult": false,
-        "backdrop_path": "/l6seTHkoPP1l2mANdq0nuQxBw6m.jpg",
+        "backdrop_path": "/sTOhZruocNubL0HxjvdouwCEL9I.jpg",
         "belongs_to_collection": null,
-        "budget": 0,
+        "budget": 111000000,
         "genres": [
             {
-                "id": 18,
-                "name": "Drama"
+                "id": 16,
+                "name": "Animation"
             },
             {
-                "id": 10752,
-                "name": "War"
-            }
-        ],
-        "homepage": "",
-        "id": 86493,
-        "imdb_id": "tt0071161",
-        "origin_country": [
-            "DE",
-            "CH"
-        ],
-        "original_language": "de",
-        "original_title": "Eine Armee Gretchen",
-        "overview": "In the last days of WW2, women are volunteering from all over Germany to serve in the front lines by having sex with the brave Nazi soldiers. But when they start having sex with each other, things get complicated. Especially with the increasing danger from the revengeful Soviet army!",
-        "popularity": 13.1017,
-        "poster_path": "/qbH4t4n1xr04ry8GiLCIRCUTRYD.jpg",
-        "production_companies": [
-            {
-                "id": 4856,
-                "logo_path": null,
-                "name": "Elite Film",
-                "origin_country": "CH"
-            }
-        ],
-        "production_countries": [
-            {
-                "iso_3166_1": "CH",
-                "name": "Switzerland"
-            }
-        ],
-        "release_date": "1973-08-23",
-        "revenue": 0,
-        "runtime": 95,
-        "softcore": false,
-        "spoken_languages": [
-            {
-                "english_name": "German",
-                "iso_639_1": "de",
-                "name": "Deutsch"
-            }
-        ],
-        "status": "Released",
-        "tagline": "",
-        "title": "She Devils of the SS",
-        "video": false,
-        "vote_average": 5.0,
-        "vote_count": 97,
-        "keywords": {
-            "keywords": [
-                {
-                    "id": 2652,
-                    "name": "nazi"
-                },
-                {
-                    "id": 1956,
-                    "name": "world war ii"
-                },
-                {
-                    "id": 11192,
-                    "name": "adult humor"
-                },
-                {
-                    "id": 161351,
-                    "name": "nazisploitation (nazi exploitation film)"
-                },
-                {
-                    "id": 279911,
-                    "name": "nazi germany"
-                }
-            ]
-        }
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/jw6ASGRT2gi8EjCImpGtbiJ9NQ9.jpg",
-        "belongs_to_collection": null,
-        "budget": 10000000,
-        "genres": [
-            {
-                "id": 27,
-                "name": "Horror"
+                "id": 10751,
+                "name": "Family"
             },
             {
-                "id": 9648,
-                "name": "Mystery"
+                "id": 12,
+                "name": "Adventure"
+            },
+            {
+                "id": 35,
+                "name": "Comedy"
             }
         ],
-        "homepage": "https://www.sonypictures.com/movies/theunholy",
-        "id": 632357,
-        "imdb_id": "tt9419056",
+        "homepage": "https://www.foxmovies.com/movies/ferdinand",
+        "id": 364689,
+        "imdb_id": "tt3411444",
         "origin_country": [
             "US"
         ],
         "original_language": "en",
-        "original_title": "The Unholy",
-        "overview": "Alice is a young hearing-impaired girl who, after a supposed visitation from the Virgin Mary, is inexplicably able to hear, speak and heal the sick. As word spreads and people from near and far flock to witness her miracles, a disgraced journalist hoping to revive his career visits the small New England town to investigate. When terrifying events begin to happen all around, he starts to question if these phenomena are the works of the Virgin Mary or something much more sinister.",
-        "popularity": 12.3775,
-        "poster_path": "/bShgiEQoPnWdw4LBrYT5u18JF34.jpg",
+        "original_title": "Ferdinand",
+        "overview": "Ferdinand, a little bull, prefers sitting quietly under a cork tree just smelling the flowers versus jumping around, snorting, and butting heads with other bulls. As Ferdinand grows big and strong, his temperament remains mellow. But one day five men come to choose the \"biggest, fastest, roughest bull\" for the bullfights in Madrid— and Ferdinand is mistakenly chosen.",
+        "popularity": 12.6815,
+        "poster_path": "/rMm94JsRfcOPiPVsTRcBiiVBOhz.jpg",
         "production_companies": [
             {
-                "id": 768,
-                "logo_path": "/mh0PD5vYwRIL5FoN9vgF2ULokSV.png",
-                "name": "Ghost House Pictures",
+                "id": 9383,
+                "logo_path": "/ppeMh4iZJQUMm1nAjRALeNhWDfU.png",
+                "name": "Blue Sky Studios",
                 "origin_country": "US"
             },
             {
-                "id": 3287,
-                "logo_path": "/bz6GbCQQXGNE56LTW9dwgksW0Iw.png",
-                "name": "Screen Gems",
+                "id": 11749,
+                "logo_path": "/5AzTeZkSCFhiGZ86g2nz8SAHtgy.png",
+                "name": "20th Century Fox Animation",
                 "origin_country": "US"
             }
         ],
@@ -128,16 +53,11 @@
                 "name": "United States of America"
             }
         ],
-        "release_date": "2021-03-31",
-        "revenue": 30832137,
-        "runtime": 99,
+        "release_date": "2017-12-09",
+        "revenue": 295038508,
+        "runtime": 108,
         "softcore": false,
         "spoken_languages": [
-            {
-                "english_name": "Latin",
-                "iso_639_1": "la",
-                "name": "Latin"
-            },
             {
                 "english_name": "English",
                 "iso_639_1": "en",
@@ -145,194 +65,446 @@
             }
         ],
         "status": "Released",
-        "tagline": "Be careful who you pray to.",
-        "title": "The Unholy",
+        "tagline": "Built to fight. Born to love.",
+        "title": "Ferdinand",
         "video": false,
-        "vote_average": 6.5,
-        "vote_count": 2294,
+        "vote_average": 7.2,
+        "vote_count": 3170,
         "keywords": {
             "keywords": [
                 {
-                    "id": 616,
-                    "name": "witch"
+                    "id": 6054,
+                    "name": "friendship"
                 },
                 {
-                    "id": 4232,
-                    "name": "melancholy"
+                    "id": 514,
+                    "name": "spain"
                 },
                 {
-                    "id": 15001,
-                    "name": "demon"
+                    "id": 744,
+                    "name": "madrid, spain"
                 },
                 {
-                    "id": 197582,
-                    "name": "mysterious"
+                    "id": 1295,
+                    "name": "europe"
                 },
                 {
-                    "id": 200234,
-                    "name": "shocking"
+                    "id": 11477,
+                    "name": "anthropomorphism"
                 },
                 {
-                    "id": 208327,
-                    "name": "zealous"
+                    "id": 9714,
+                    "name": "remake"
                 },
                 {
-                    "id": 211659,
-                    "name": "somber"
+                    "id": 14764,
+                    "name": "bull"
                 },
                 {
-                    "id": 239680,
-                    "name": "religious horror"
+                    "id": 15101,
+                    "name": "based on children's book"
                 },
                 {
-                    "id": 240422,
-                    "name": "wonder"
+                    "id": 156702,
+                    "name": "capture"
                 },
                 {
-                    "id": 249136,
-                    "name": "suspicious"
+                    "id": 278823,
+                    "name": "3d animation"
                 },
                 {
-                    "id": 281585,
-                    "name": "inspirational"
+                    "id": 303310,
+                    "name": "joyous"
                 },
                 {
                     "id": 325762,
                     "name": "adoring"
                 },
                 {
-                    "id": 325763,
-                    "name": "ambiguous"
+                    "id": 325772,
+                    "name": "assertive"
                 },
                 {
-                    "id": 325766,
-                    "name": "antagonistic"
+                    "id": 325782,
+                    "name": "cheerful"
                 },
                 {
-                    "id": 325770,
-                    "name": "approving"
+                    "id": 325806,
+                    "name": "empathetic"
                 },
                 {
-                    "id": 325773,
-                    "name": "audacious"
+                    "id": 325809,
+                    "name": "enthusiastic"
                 },
                 {
-                    "id": 325835,
-                    "name": "melodramatic"
+                    "id": 325811,
+                    "name": "excited"
                 }
             ]
         }
     },
     {
         "adult": false,
-        "backdrop_path": "/dsPiNuzzP3EiWTXkXxkclujzSxZ.jpg",
+        "backdrop_path": "/nC3IjYhUgZWgfKfFX0ygMigFwgc.jpg",
         "belongs_to_collection": null,
         "budget": 0,
         "genres": [
             {
+                "id": 28,
+                "name": "Action"
+            },
+            {
                 "id": 18,
                 "name": "Drama"
             },
             {
-                "id": 27,
-                "name": "Horror"
+                "id": 36,
+                "name": "History"
             }
         ],
         "homepage": "",
-        "id": 29187,
-        "imdb_id": "tt0091539",
+        "id": 14537,
+        "imdb_id": "tt0056058",
         "origin_country": [
-            "IT"
+            "JP"
         ],
-        "original_language": "it",
-        "original_title": "La monaca nel peccato",
-        "overview": "Convent of Sinners is the story of Susanna, a young girl who is raped by her own father and sent to a convent for her sins, where she falls in love with a priest. The other nuns, however, are jealous and angry, they want Susanna for themselves, and accuse her of being possessed by the Devil.",
-        "popularity": 12.0293,
-        "poster_path": "/1L0BEF5ymuJeAW05fSGMB849Fnq.jpg",
+        "original_language": "ja",
+        "original_title": "切腹",
+        "overview": "Down-on-his-luck veteran Tsugumo Hanshirō enters the courtyard of the prosperous House of Iyi. Unemployed, and with no family, he hopes to find a place to commit seppuku—and a worthy second to deliver the coup de grâce in his suicide ritual. The senior counselor for the Iyi clan questions the ronin’s resolve and integrity, suspecting Hanshirō of seeking charity rather than an honorable end. What follows is a pair of interlocking stories which lay bare the difference between honor and respect, and promises to examine the legendary foundations of the Samurai code.",
+        "popularity": 12.6812,
+        "poster_path": "/5konZnIbcAxZjP616Cz5o9bKEfW.jpg",
         "production_companies": [
             {
-                "id": 6082,
-                "logo_path": null,
-                "name": "Filmirage",
-                "origin_country": "IT"
+                "id": 192,
+                "logo_path": "/93eAKlnQecDdMtucfOprzcjMw9V.png",
+                "name": "Shochiku",
+                "origin_country": "JP"
             }
         ],
         "production_countries": [
             {
-                "iso_3166_1": "IT",
-                "name": "Italy"
+                "iso_3166_1": "JP",
+                "name": "Japan"
             }
         ],
-        "release_date": "1986-08-09",
+        "release_date": "1962-09-15",
         "revenue": 0,
-        "runtime": 88,
+        "runtime": 135,
         "softcore": false,
         "spoken_languages": [
             {
-                "english_name": "Italian",
-                "iso_639_1": "it",
-                "name": "Italiano"
+                "english_name": "Japanese",
+                "iso_639_1": "ja",
+                "name": "日本語"
             }
         ],
         "status": "Released",
-        "tagline": "",
-        "title": "Convent of Sinners",
+        "tagline": "What befalls others today, may be your own fate tomorrow.",
+        "title": "Harakiri",
         "video": false,
-        "vote_average": 5.3,
-        "vote_count": 29,
+        "vote_average": 8.5,
+        "vote_count": 1297,
         "keywords": {
             "keywords": [
                 {
-                    "id": 4426,
-                    "name": "sadism"
+                    "id": 236,
+                    "name": "suicide"
                 },
                 {
-                    "id": 2804,
-                    "name": "exploitation"
+                    "id": 233,
+                    "name": "japan"
                 },
                 {
-                    "id": 10093,
-                    "name": "priest"
+                    "id": 1462,
+                    "name": "samurai"
                 },
                 {
-                    "id": 13006,
-                    "name": "torture"
+                    "id": 1293,
+                    "name": "asia"
                 },
                 {
-                    "id": 33841,
-                    "name": "incest"
+                    "id": 9856,
+                    "name": "flashback"
+                },
+                {
+                    "id": 9748,
+                    "name": "revenge"
+                },
+                {
+                    "id": 12987,
+                    "name": "poverty"
+                },
+                {
+                    "id": 12999,
+                    "name": "black and white"
+                },
+                {
+                    "id": 18100,
+                    "name": "seppuku"
+                },
+                {
+                    "id": 155198,
+                    "name": "ronin"
+                },
+                {
+                    "id": 186753,
+                    "name": "jidaigeki"
+                },
+                {
+                    "id": 190446,
+                    "name": "edo period"
+                },
+                {
+                    "id": 207941,
+                    "name": "17th century"
+                },
+                {
+                    "id": 212737,
+                    "name": "philosophical"
+                },
+                {
+                    "id": 214891,
+                    "name": "shogunate"
+                },
+                {
+                    "id": 239797,
+                    "name": "complex"
+                },
+                {
+                    "id": 312122,
+                    "name": "bushi"
+                },
+                {
+                    "id": 312229,
+                    "name": "bakumatsu"
+                },
+                {
+                    "id": 325787,
+                    "name": "complicated"
+                },
+                {
+                    "id": 325801,
+                    "name": "distressing"
+                },
+                {
+                    "id": 325811,
+                    "name": "excited"
                 }
             ]
         }
     },
     {
         "adult": false,
-        "backdrop_path": "/obYVvi6eD4rjFeC7g4uoZQPIh7F.jpg",
+        "backdrop_path": "/x7B2zT2OL8fKM53Wgzqz6nc7r02.jpg",
         "belongs_to_collection": null,
-        "budget": 50000000,
+        "budget": 85000000,
         "genres": [
             {
-                "id": 18,
-                "name": "Drama"
+                "id": 35,
+                "name": "Comedy"
             },
+            {
+                "id": 10751,
+                "name": "Family"
+            },
+            {
+                "id": 14,
+                "name": "Fantasy"
+            }
+        ],
+        "homepage": "",
+        "id": 9986,
+        "imdb_id": "tt0413895",
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "Charlotte's Web",
+        "overview": "Wilbur the pig is scared of the end of the season, because he knows that come that time, he will end up on the dinner table. He hatches a plan with Charlotte, a spider that lives in his pen, to ensure that this will never happen.",
+        "popularity": 12.6788,
+        "poster_path": "/fU0IR5HF8KxQbZijuWKPTrY81Qv.jpg",
+        "production_companies": [
+            {
+                "id": 4,
+                "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+                "name": "Paramount Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 7311,
+                "logo_path": "/j10FfP84cxcRBxVaobA4RZqGmWy.png",
+                "name": "The Kerner Entertainment Company",
+                "origin_country": "US"
+            },
+            {
+                "id": 2348,
+                "logo_path": "/m31fQvZJuUvAgxoqTiCGYFBfZYe.png",
+                "name": "Nickelodeon Movies",
+                "origin_country": "US"
+            },
+            {
+                "id": 10221,
+                "logo_path": "/99VfWRgKasZoyK9UVB39gnYvFrZ.png",
+                "name": "Walden Media",
+                "origin_country": "US"
+            },
+            {
+                "id": 20157,
+                "logo_path": null,
+                "name": "KMP Film Invest",
+                "origin_country": "DE"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2006-12-07",
+        "revenue": 148964660,
+        "runtime": 97,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Help is coming from above.",
+        "title": "Charlotte's Web",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 1496,
+        "keywords": {
+            "keywords": [
+                {
+                    "id": 10084,
+                    "name": "rescue"
+                },
+                {
+                    "id": 6054,
+                    "name": "friendship"
+                },
+                {
+                    "id": 1701,
+                    "name": "hero"
+                },
+                {
+                    "id": 818,
+                    "name": "based on novel or book"
+                },
+                {
+                    "id": 4931,
+                    "name": "pig"
+                },
+                {
+                    "id": 3986,
+                    "name": "spider"
+                },
+                {
+                    "id": 3875,
+                    "name": "barn"
+                },
+                {
+                    "id": 6464,
+                    "name": "uncle"
+                },
+                {
+                    "id": 6202,
+                    "name": "spring"
+                },
+                {
+                    "id": 11477,
+                    "name": "anthropomorphism"
+                },
+                {
+                    "id": 11539,
+                    "name": "grass"
+                },
+                {
+                    "id": 9713,
+                    "name": "friends"
+                },
+                {
+                    "id": 10349,
+                    "name": "survival"
+                },
+                {
+                    "id": 9927,
+                    "name": "maine"
+                },
+                {
+                    "id": 15101,
+                    "name": "based on children's book"
+                },
+                {
+                    "id": 18035,
+                    "name": "family"
+                },
+                {
+                    "id": 33621,
+                    "name": "desk"
+                },
+                {
+                    "id": 33623,
+                    "name": "raincoat"
+                },
+                {
+                    "id": 189359,
+                    "name": "rat"
+                },
+                {
+                    "id": 206052,
+                    "name": "talking pig"
+                }
+            ]
+        }
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hTfAhmwSqr79bQAAf5n68q2lw0v.jpg",
+        "belongs_to_collection": {
+            "id": 230161,
+            "name": "Fright Night (Reboot) Collection",
+            "poster_path": "/j552uoYU3B45mIHLPBorkdoW0Mr.jpg",
+            "backdrop_path": "/9N1PbMkYJ5Zn2suUSHt38lAJnkD.jpg"
+        },
+        "budget": 30000000,
+        "genres": [
             {
                 "id": 27,
                 "name": "Horror"
+            },
+            {
+                "id": 35,
+                "name": "Comedy"
             }
         ],
-        "homepage": "http://www.sweeneytoddmovie.com/",
-        "id": 13885,
-        "imdb_id": "tt0408236",
+        "homepage": "http://www.welcometofrightnight.com",
+        "id": 58151,
+        "imdb_id": "tt1438176",
         "origin_country": [
-            "US",
-            "GB"
+            "US"
         ],
         "original_language": "en",
-        "original_title": "Sweeney Todd: The Demon Barber of Fleet Street",
-        "overview": "The infamous story of Benjamin Barker, a.k.a Sweeney Todd, who sets up a barber shop down in London which is the basis for a sinister partnership with his fellow tenant, Mrs. Lovett. Based on the hit Broadway musical.",
-        "popularity": 13.0356,
-        "poster_path": "/gAW4J1bkRjZKmFsJsIiOBASeoAp.jpg",
+        "original_title": "Fright Night",
+        "overview": "A teenager suspects his new neighbour is a vampire. Unable to convince anyone, he tries to enlist the help of a self-proclaimed vampire hunter and magician.",
+        "popularity": 12.6669,
+        "poster_path": "/ySQ3v4Fzpy3fePs86eoLiDzwLYM.jpg",
         "production_companies": [
+            {
+                "id": 77471,
+                "logo_path": null,
+                "name": "Gaeta / Rosenzweig Films",
+                "origin_country": "US"
+            },
             {
                 "id": 7,
                 "logo_path": "/zcKhWbxFJ4CohZ9dLBMxmOArTVn.png",
@@ -340,43 +512,31 @@
                 "origin_country": "US"
             },
             {
-                "id": 174,
-                "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
-                "name": "Warner Bros. Pictures",
-                "origin_country": "US"
-            },
-            {
-                "id": 80,
-                "logo_path": "/i6B0AIrUESLt5Fm6MOPXmuPhsvA.png",
-                "name": "The Zanuck Company",
-                "origin_country": "US"
-            },
-            {
-                "id": 98660,
+                "id": 11370,
                 "logo_path": null,
-                "name": "Dombey Street Productions",
-                "origin_country": "GB"
+                "name": "Michael De Luca Productions",
+                "origin_country": "US"
             },
             {
-                "id": 384,
-                "logo_path": "/bDMfnqaEqGY9KlV4RMm2QHJCm2v.png",
-                "name": "Parkes+MacDonald Production",
-                "origin_country": "US"
+                "id": 7294,
+                "logo_path": "/kK4PRgceWp9KNrycD8xx8seWxYU.png",
+                "name": "Reliance Entertainment",
+                "origin_country": "IN"
             }
         ],
         "production_countries": [
             {
-                "iso_3166_1": "GB",
-                "name": "United Kingdom"
+                "iso_3166_1": "IN",
+                "name": "India"
             },
             {
                 "iso_3166_1": "US",
                 "name": "United States of America"
             }
         ],
-        "release_date": "2007-12-21",
-        "revenue": 153384272,
-        "runtime": 116,
+        "release_date": "2011-07-26",
+        "revenue": 41002607,
+        "runtime": 106,
         "softcore": false,
         "spoken_languages": [
             {
@@ -386,347 +546,146 @@
             }
         ],
         "status": "Released",
-        "tagline": "Never forget. Never forgive.",
-        "title": "Sweeney Todd: The Demon Barber of Fleet Street",
+        "tagline": "You can't run from evil when it lives next door.",
+        "title": "Fright Night",
         "video": false,
-        "vote_average": 7.2,
-        "vote_count": 6511,
+        "vote_average": 6.251,
+        "vote_count": 2194,
         "keywords": {
             "keywords": [
                 {
-                    "id": 4129,
-                    "name": "widow"
+                    "id": 813,
+                    "name": "sunrise"
                 },
                 {
-                    "id": 2884,
-                    "name": "asylum"
+                    "id": 3133,
+                    "name": "vampire"
                 },
                 {
-                    "id": 718,
-                    "name": "confession"
+                    "id": 3335,
+                    "name": "halloween"
                 },
                 {
-                    "id": 3125,
-                    "name": "razor"
+                    "id": 3301,
+                    "name": "suspicion"
                 },
                 {
-                    "id": 3289,
-                    "name": "villain"
+                    "id": 10532,
+                    "name": "suburbia"
                 },
                 {
-                    "id": 4344,
-                    "name": "musical"
+                    "id": 9714,
+                    "name": "remake"
                 },
                 {
-                    "id": 5642,
-                    "name": "beggar"
+                    "id": 303310,
+                    "name": "joyous"
                 },
                 {
-                    "id": 10181,
-                    "name": "based on play or musical"
+                    "id": 325765,
+                    "name": "amused"
                 },
                 {
-                    "id": 10656,
-                    "name": "child in peril"
+                    "id": 325782,
+                    "name": "cheerful"
                 },
                 {
-                    "id": 11853,
-                    "name": "cane"
-                },
-                {
-                    "id": 14794,
-                    "name": "lust"
-                },
-                {
-                    "id": 14895,
-                    "name": "cannibal"
-                },
-                {
-                    "id": 15000,
-                    "name": "person on fire"
-                },
-                {
-                    "id": 33841,
-                    "name": "incest"
-                },
-                {
-                    "id": 34262,
-                    "name": "infatuation"
-                },
-                {
-                    "id": 41133,
-                    "name": "shaving"
-                },
-                {
-                    "id": 154954,
-                    "name": "social injustice"
-                },
-                {
-                    "id": 158192,
-                    "name": "barbershop"
-                },
-                {
-                    "id": 160841,
-                    "name": "oven"
-                },
-                {
-                    "id": 162810,
-                    "name": "macabre"
-                },
-                {
-                    "id": 164484,
-                    "name": "beadle"
-                },
-                {
-                    "id": 164495,
-                    "name": "seaman"
-                },
-                {
-                    "id": 164496,
-                    "name": "mother figure"
-                },
-                {
-                    "id": 220940,
-                    "name": "folktale"
-                },
-                {
-                    "id": 249157,
-                    "name": "corrupt judge"
-                },
-                {
-                    "id": 321464,
-                    "name": "intense"
-                },
-                {
-                    "id": 324263,
-                    "name": "horror musical"
-                },
-                {
-                    "id": 325854,
-                    "name": "tragic"
+                    "id": 325818,
+                    "name": "frightened"
                 }
             ]
         }
     },
     {
         "adult": false,
-        "backdrop_path": "/n3McMv40zcn4rZyUHrL3UVKGWQa.jpg",
+        "backdrop_path": "/92Uceuy7HaiiHFgW48gNyxhx17d.jpg",
         "belongs_to_collection": null,
-        "budget": 0,
+        "budget": 33000000,
         "genres": [
             {
-                "id": 27,
-                "name": "Horror"
-            }
-        ],
-        "homepage": "",
-        "id": 1766192,
-        "imdb_id": "tt41205794",
-        "origin_country": [
-            "US"
-        ],
-        "original_language": "en",
-        "original_title": "Insidious Rewind",
-        "overview": "Searching for her missing brother, a young woman traces his final signal to an abandoned warehouse, where she discovers a collection of cursed VHS tapes. Captured and forced to watch, she endures four found-footage nightmares that may reveal what happened to him—and what now awaits her.",
-        "popularity": 10.5425,
-        "poster_path": "/AeeAAx83NSPSqBO66hjbQrZGvFb.jpg",
-        "production_companies": [
-            {
-                "id": 160671,
-                "logo_path": null,
-                "name": "Woof Cat Films",
-                "origin_country": ""
-            }
-        ],
-        "production_countries": [],
-        "release_date": "",
-        "revenue": 0,
-        "runtime": 79,
-        "softcore": false,
-        "spoken_languages": [],
-        "status": "Released",
-        "tagline": "Once You Press Play, You Can't Go Back",
-        "title": "Insidious Rewind",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "keywords": {
-            "keywords": [
-                {
-                    "id": 1930,
-                    "name": "kidnapping"
-                },
-                {
-                    "id": 9706,
-                    "name": "anthology"
-                },
-                {
-                    "id": 11616,
-                    "name": "vhs"
-                },
-                {
-                    "id": 156091,
-                    "name": "missing person"
-                },
-                {
-                    "id": 163053,
-                    "name": "found footage"
-                },
-                {
-                    "id": 206219,
-                    "name": "captivity"
-                },
-                {
-                    "id": 220218,
-                    "name": "cursed video"
-                },
-                {
-                    "id": 368403,
-                    "name": "abandoned warehouse"
-                }
-            ]
-        }
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/AqUmK0hggYTGaCGSt5s24UfJCwY.jpg",
-        "belongs_to_collection": null,
-        "budget": 600,
-        "genres": [
-            {
-                "id": 27,
-                "name": "Horror"
-            }
-        ],
-        "homepage": "",
-        "id": 1776469,
-        "imdb_id": null,
-        "origin_country": [
-            "US"
-        ],
-        "original_language": "en",
-        "original_title": "Doce Vampiro",
-        "overview": "Santiago goes out for the first time after a messy breakup and meets Marcelo, who awakens long-hidden desires, but their encounter spirals out of control following an attack by a mysterious creature.",
-        "popularity": 10.6162,
-        "poster_path": "/kHLHpxI2kyQJDWD1WL8CmoVJobv.jpg",
-        "production_companies": [
-            {
-                "id": 234504,
-                "logo_path": "/3SuJ1g0ZZRHgSJgCo2pQwFhc5X0.png",
-                "name": "Novíssimo! Artes",
-                "origin_country": "BR"
-            }
-        ],
-        "production_countries": [],
-        "release_date": "",
-        "revenue": 0,
-        "runtime": 15,
-        "softcore": false,
-        "spoken_languages": [
-            {
-                "english_name": "Portuguese",
-                "iso_639_1": "pt",
-                "name": "Português"
-            }
-        ],
-        "status": "Post Production",
-        "tagline": "What are you waiting for?",
-        "title": "Sweet Vampire",
-        "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0,
-        "keywords": {
-            "keywords": []
-        }
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/zwSDvbnN51JqU1ULzPnEc22DkqV.jpg",
-        "belongs_to_collection": {
-            "id": 8936,
-            "name": "Bridget Jones Collection",
-            "poster_path": "/9VUsbuTMFoRgUgK0z3pEWmkujFe.jpg",
-            "backdrop_path": "/9WuJ3iHkCEm5jtxIRwRAp45QZjL.jpg"
-        },
-        "budget": 50000000,
-        "genres": [
+                "id": 14,
+                "name": "Fantasy"
+            },
             {
                 "id": 10749,
                 "name": "Romance"
-            },
-            {
-                "id": 35,
-                "name": "Comedy"
-            },
-            {
-                "id": 18,
-                "name": "Drama"
             }
         ],
-        "homepage": "https://www.peacocktv.com/stream-movies/bridget-jones-mad-about-the-boy",
-        "id": 1272149,
-        "imdb_id": "tt32063050",
+        "homepage": "",
+        "id": 197796,
+        "imdb_id": "tt2316801",
         "origin_country": [
-            "FR",
-            "US",
-            "GB"
+            "FR"
         ],
-        "original_language": "en",
-        "original_title": "Bridget Jones: Mad About the Boy",
-        "overview": "Bridget Jones navigates life as a widow and single mum with the help of her family, friends, and former lover, Daniel. Back to work and on the apps, she's pursued by a younger man and maybe – just maybe – her son's science teacher.",
-        "popularity": 12.2752,
-        "poster_path": "/e5VR3nhLYG60znxaqU84wv4VSCb.jpg",
+        "original_language": "fr",
+        "original_title": "La Belle et la Bête",
+        "overview": "Forced to face the cruel side of life, a devastated, bankrupt merchant chances upon the enchanted castle of a hideous creature, the mere sight of it chills the bone to the marrow. There, a fate worse than death awaits the poor father-of-six, who, after plucking a sweet-scented rose from the repulsive master's verdant garden, must do the impossible: permit his compassionate daughter, Belle, to take his place and pay for the sins of her parent. Now, an impenetrable mystery shrouds the haunted mansion, and, as repugnance gradually turns into affection, only true love could break the spell.",
+        "popularity": 12.6634,
+        "poster_path": "/8bErT2koHXAUSW5PdLQqgL5gEEe.jpg",
         "production_companies": [
             {
-                "id": 694,
-                "logo_path": "/5LEHONGkZBIoWvp1ygHOF8iyi1M.png",
-                "name": "StudioCanal",
+                "id": 616,
+                "logo_path": "/aeBPwUMUqIOFnt3Fxv9fC91hBuq.png",
+                "name": "Eskwad",
                 "origin_country": "FR"
             },
             {
-                "id": 14,
-                "logo_path": "/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
-                "name": "Miramax",
-                "origin_country": "US"
+                "id": 7981,
+                "logo_path": "/6Yv1gIAuGkHS5Vis4UjnqHhCPWV.png",
+                "name": "Pathé",
+                "origin_country": "FR"
             },
             {
-                "id": 10163,
-                "logo_path": "/16KWBMmfPX0aJzDExDrPxSLj0Pg.png",
-                "name": "Working Title",
-                "origin_country": "GB"
+                "id": 19233,
+                "logo_path": null,
+                "name": "120 Films",
+                "origin_country": "FR"
+            },
+            {
+                "id": 356,
+                "logo_path": "/9tW5wZEGotn1Ei5pErA88m47XiD.png",
+                "name": "TF1 Films Production",
+                "origin_country": "FR"
+            },
+            {
+                "id": 264,
+                "logo_path": "/fA90qwUKgPhMONqtwY60GaHRyrW.png",
+                "name": "Studio Babelsberg",
+                "origin_country": "DE"
             }
         ],
         "production_countries": [
             {
-                "iso_3166_1": "US",
-                "name": "United States of America"
-            },
-            {
-                "iso_3166_1": "GB",
-                "name": "United Kingdom"
-            },
-            {
                 "iso_3166_1": "FR",
                 "name": "France"
+            },
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
             }
         ],
-        "release_date": "2025-02-12",
-        "revenue": 140431671,
-        "runtime": 124,
+        "release_date": "2014-02-12",
+        "revenue": 47430624,
+        "runtime": 112,
         "softcore": false,
         "spoken_languages": [
             {
                 "english_name": "English",
                 "iso_639_1": "en",
                 "name": "English"
+            },
+            {
+                "english_name": "French",
+                "iso_639_1": "fr",
+                "name": "Français"
             }
         ],
         "status": "Released",
-        "tagline": "She's starting a new chapter. Just as she is.",
-        "title": "Bridget Jones: Mad About the Boy",
+        "tagline": "The legend is reborn...",
+        "title": "Beauty and the Beast",
         "video": false,
-        "vote_average": 6.348,
-        "vote_count": 587,
+        "vote_average": 6.3,
+        "vote_count": 2251,
         "keywords": {
             "keywords": [
                 {
@@ -734,87 +693,113 @@
                     "name": "based on novel or book"
                 },
                 {
-                    "id": 5248,
-                    "name": "female friendship"
+                    "id": 2343,
+                    "name": "magic"
                 },
                 {
-                    "id": 9799,
-                    "name": "romcom"
+                    "id": 3205,
+                    "name": "fairy tale"
                 },
                 {
-                    "id": 10235,
-                    "name": "family relationships"
+                    "id": 2580,
+                    "name": "shipwreck"
                 },
                 {
-                    "id": 9663,
-                    "name": "sequel"
+                    "id": 4375,
+                    "name": "transformation"
+                },
+                {
+                    "id": 3098,
+                    "name": "castle"
+                },
+                {
+                    "id": 9887,
+                    "name": "surrealism"
+                },
+                {
+                    "id": 5774,
+                    "name": "forest"
+                },
+                {
+                    "id": 9673,
+                    "name": "love"
+                },
+                {
+                    "id": 11851,
+                    "name": "man beast"
+                },
+                {
+                    "id": 10541,
+                    "name": "curse"
+                },
+                {
+                    "id": 11061,
+                    "name": "debt"
+                },
+                {
+                    "id": 161271,
+                    "name": "beast"
+                },
+                {
+                    "id": 161678,
+                    "name": "giant man"
+                },
+                {
+                    "id": 163545,
+                    "name": "healing power"
+                },
+                {
+                    "id": 179411,
+                    "name": "based on fairy tale"
+                },
+                {
+                    "id": 205614,
+                    "name": "picturesque"
+                },
+                {
+                    "id": 209220,
+                    "name": "live action and animation"
+                },
+                {
+                    "id": 245230,
+                    "name": "live action remake"
                 }
             ]
         }
     },
     {
         "adult": false,
-        "backdrop_path": "/xrSRmL6pXnRfu9vKwayILkNgLP.jpg",
+        "backdrop_path": "/cUqXHZtnptgvyAE1hN47Wsf3ami.jpg",
         "belongs_to_collection": null,
-        "budget": 8000000,
+        "budget": 12000000,
         "genres": [
             {
                 "id": 35,
                 "name": "Comedy"
-            },
-            {
-                "id": 10402,
-                "name": "Music"
-            },
-            {
-                "id": 10749,
-                "name": "Romance"
-            },
-            {
-                "id": 18,
-                "name": "Drama"
             }
         ],
-        "homepage": "",
-        "id": 198277,
-        "imdb_id": "tt1980929",
+        "homepage": "https://www.warnerbros.com/movies/project-x",
+        "id": 57214,
+        "imdb_id": "tt1636826",
         "origin_country": [
             "US"
         ],
         "original_language": "en",
-        "original_title": "Begin Again",
-        "overview": "Gretta, a budding songwriter, finds herself alone after her boyfriend Dave ditches her. Her life gains purpose when Dan, a record label executive, notices her talent.",
-        "popularity": 13.724,
-        "poster_path": "/qx4HXHXt528hS4rwePZbZo20xqZ.jpg",
+        "original_title": "Project X",
+        "overview": "Three high school seniors throw a party to make a name for themselves. As the night progresses, things spiral out of control as word of the party spreads.",
+        "popularity": 12.6569,
+        "poster_path": "/lUPDGT3lyRrq8SvWuNWG2DP64bR.jpg",
         "production_companies": [
             {
-                "id": 1785,
-                "logo_path": "/wT6aIkuQTNuq8XFoDGACK8EyR6w.png",
-                "name": "Likely Story",
+                "id": 1885,
+                "logo_path": "/xlvoOZr4s1PygosrwZyolIFe5xs.png",
+                "name": "Silver Pictures",
                 "origin_country": "US"
             },
             {
-                "id": 11448,
-                "logo_path": "/twhX9HMUuGW4Mhb45AyWDhRqkvR.png",
-                "name": "Exclusive Media",
-                "origin_country": "US"
-            },
-            {
-                "id": 14319,
-                "logo_path": "/z5jJhK1AMbr47CLVqsB4HpIBtHd.png",
-                "name": "Sycamore Pictures",
-                "origin_country": "US"
-            },
-            {
-                "id": 10105,
-                "logo_path": "/bN4tiAS8oNlHhIqq66KBPQ1Ekqh.png",
-                "name": "Apatow Productions",
-                "origin_country": "US"
-            },
-            {
-                "id": 33681,
-                "logo_path": "/dHx2nsV9AC7IBlKN2dk1FDImvOz.png",
-                "name": "Black Label Media",
+                "id": 3527,
+                "logo_path": null,
+                "name": "Green Hat Films",
                 "origin_country": "US"
             }
         ],
@@ -824,9 +809,9 @@
                 "name": "United States of America"
             }
         ],
-        "release_date": "2014-06-27",
-        "revenue": 63500000,
-        "runtime": 104,
+        "release_date": "2012-03-01",
+        "revenue": 102731865,
+        "runtime": 88,
         "softcore": false,
         "spoken_languages": [
             {
@@ -836,79 +821,262 @@
             }
         ],
         "status": "Released",
-        "tagline": "You're only as strong as your next move.",
-        "title": "Begin Again",
+        "tagline": "The party you've only dreamed about.",
+        "title": "Project X",
         "video": false,
-        "vote_average": 7.2,
-        "vote_count": 4084,
+        "vote_average": 6.927,
+        "vote_count": 7076,
         "keywords": {
             "keywords": [
                 {
-                    "id": 242,
-                    "name": "new york city"
+                    "id": 6270,
+                    "name": "high school"
                 },
                 {
-                    "id": 1332,
-                    "name": "cheating"
+                    "id": 1421,
+                    "name": "birthday"
                 },
                 {
-                    "id": 18053,
-                    "name": "divorcee"
+                    "id": 5732,
+                    "name": "birthday party"
                 },
                 {
-                    "id": 155650,
-                    "name": "music recording"
+                    "id": 11800,
+                    "name": "mockumentary"
                 },
                 {
-                    "id": 163133,
-                    "name": "singer-songwriter"
+                    "id": 10275,
+                    "name": "house party"
                 },
                 {
-                    "id": 185250,
-                    "name": "street musician"
+                    "id": 11870,
+                    "name": "teen movie"
                 },
                 {
-                    "id": 206671,
-                    "name": "city life"
+                    "id": 33910,
+                    "name": "high school student"
                 },
                 {
-                    "id": 223969,
-                    "name": "recording session"
+                    "id": 160517,
+                    "name": "fake documentary"
                 },
                 {
-                    "id": 224550,
-                    "name": "street singer"
-                },
-                {
-                    "id": 281585,
-                    "name": "inspirational"
-                },
-                {
-                    "id": 359524,
-                    "name": "cheating wife"
-                },
-                {
-                    "id": 362514,
-                    "name": "cheating boyfriend"
+                    "id": 365784,
+                    "name": "faux documentary"
                 }
             ]
         }
     },
     {
         "adult": false,
-        "backdrop_path": "/dSlofjxxcTSLmnH6602WsSSELU5.jpg",
-        "belongs_to_collection": {
-            "id": 57971,
-            "name": "The Rescuers Collection",
-            "poster_path": "/6OGgrYU7bWFritfSW76uvCklM0.jpg",
-            "backdrop_path": "/5LxWcUb02pWN0FkNyDPYq34JV1M.jpg"
-        },
-        "budget": 7500000,
+        "backdrop_path": "/iCML6fBe3X0y06P33bM7dyYXPKZ.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
         "genres": [
             {
-                "id": 14,
-                "name": "Fantasy"
+                "id": 35,
+                "name": "Comedy"
             },
+            {
+                "id": 10749,
+                "name": "Romance"
+            }
+        ],
+        "homepage": "",
+        "id": 1632181,
+        "imdb_id": "tt40187050",
+        "origin_country": [
+            "MX"
+        ],
+        "original_language": "es",
+        "original_title": "Socias por accidente",
+        "overview": "Two women discover they were both scammed by the same man (who also got them pregnant). They form an alliance to take revenge.",
+        "popularity": 12.655,
+        "poster_path": "/j0CIVzeR7hRAPBPGR54qDZoOQpp.jpg",
+        "production_companies": [
+            {
+                "id": 7570,
+                "logo_path": "/gW8dfVtl1JsGIiLnvglea1OHHVr.png",
+                "name": "Videocine",
+                "origin_country": "MX"
+            },
+            {
+                "id": 210842,
+                "logo_path": "/osAelnShU5bBUCd2Od0L6ExSuv4.png",
+                "name": "ViX",
+                "origin_country": "US"
+            },
+            {
+                "id": 192443,
+                "logo_path": "/l5JPZK6eFLsrDi41I4Jg5jnnAc4.png",
+                "name": "TelevisaUnivision Mexico",
+                "origin_country": "MX"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "MX",
+                "name": "Mexico"
+            }
+        ],
+        "release_date": "2026-03-12",
+        "revenue": 0,
+        "runtime": 110,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "Spanish",
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Accidental Partners",
+        "video": false,
+        "vote_average": 8.832,
+        "vote_count": 393,
+        "keywords": {
+            "keywords": []
+        }
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1fL2S8LKxCVE9KoPRBXeagmBtex.jpg",
+        "belongs_to_collection": null,
+        "budget": 15000000,
+        "genres": [
+            {
+                "id": 27,
+                "name": "Horror"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "homepage": "https://www.speaknoevilmovie.com",
+        "id": 1114513,
+        "imdb_id": "tt27534307",
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "Speak No Evil",
+        "overview": "When an American family is invited to spend the weekend at the idyllic country estate of a charming British family they befriended on vacation, what begins as a dream holiday soon warps into a snarled psychological nightmare.",
+        "popularity": 12.636,
+        "poster_path": "/dA4N6uWOnEMgbxXwFX7qX7adzs8.jpg",
+        "production_companies": [
+            {
+                "id": 3172,
+                "logo_path": "/rzKluDcRkIwHZK2pHsiT667A2Kw.png",
+                "name": "Blumhouse Productions",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2024-09-11",
+        "revenue": 77239314,
+        "runtime": 110,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Hear no evil.",
+        "title": "Speak No Evil",
+        "video": false,
+        "vote_average": 7.087,
+        "vote_count": 2374,
+        "keywords": {
+            "keywords": [
+                {
+                    "id": 1157,
+                    "name": "husband wife relationship"
+                },
+                {
+                    "id": 2340,
+                    "name": "paranoia"
+                },
+                {
+                    "id": 9714,
+                    "name": "remake"
+                },
+                {
+                    "id": 233380,
+                    "name": "weekend getaway"
+                },
+                {
+                    "id": 239407,
+                    "name": "europe vacation"
+                },
+                {
+                    "id": 279542,
+                    "name": "children in danger"
+                },
+                {
+                    "id": 295907,
+                    "name": "psychological horror"
+                },
+                {
+                    "id": 370665,
+                    "name": "dangerous escalation"
+                },
+                {
+                    "id": 370666,
+                    "name": "emotional manipulation"
+                },
+                {
+                    "id": 372765,
+                    "name": "subtle menace"
+                },
+                {
+                    "id": 372766,
+                    "name": "hospitality gone wrong"
+                },
+                {
+                    "id": 372767,
+                    "name": "disturbing behavior"
+                },
+                {
+                    "id": 374177,
+                    "name": "fear of strangers"
+                },
+                {
+                    "id": 374178,
+                    "name": "predatory manipulation"
+                },
+                {
+                    "id": 374179,
+                    "name": "deceptive kindness"
+                },
+                {
+                    "id": 374180,
+                    "name": "parental fear"
+                }
+            ]
+        }
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vhuNTct6wQKcaV0U8aUXLVvjetU.jpg",
+        "belongs_to_collection": {
+            "id": 100693,
+            "name": "101 Dalmatians (Animated) Collection",
+            "poster_path": "/dFGiyqS7rgbI6Wtu9cloSMlIaVb.jpg",
+            "backdrop_path": "/b7EHS608P5Z98d6ldv4g5J83JQq.jpg"
+        },
+        "budget": 0,
+        "genres": [
             {
                 "id": 10751,
                 "name": "Family"
@@ -920,24 +1088,34 @@
             {
                 "id": 12,
                 "name": "Adventure"
+            },
+            {
+                "id": 35,
+                "name": "Comedy"
             }
         ],
         "homepage": "",
-        "id": 11319,
-        "imdb_id": "tt0076618",
+        "id": 13654,
+        "imdb_id": "tt0324941",
         "origin_country": [
             "US"
         ],
         "original_language": "en",
-        "original_title": "The Rescuers",
-        "overview": "Two agents of the mouse-run International Rescue Aid Society search for a little orphan girl kidnapped by sinister treasure hunters.",
-        "popularity": 12.2425,
-        "poster_path": "/9jpDjrRyvv9Nw0piXOpHHQTfxw9.jpg",
+        "original_title": "101 Dalmatians II: Patch's London Adventure",
+        "overview": "Being one of 101 takes its toll on Patch, who doesn't feel unique. When he's accidentally left behind on moving day, he meets his idol, Thunderbolt, who enlists him on a publicity campaign.",
+        "popularity": 12.6277,
+        "poster_path": "/uB0DQU4Cog8tYrkiOEVTmDw6Qnn.jpg",
         "production_companies": [
             {
-                "id": 3166,
-                "logo_path": "/jmPS1qPfKnISciDF7RnUbh48jvK.png",
-                "name": "Walt Disney Productions",
+                "id": 3475,
+                "logo_path": "/jTPNzDEn7eHmp3nEXEEtkHm6jLg.png",
+                "name": "Disney Television Animation",
+                "origin_country": "US"
+            },
+            {
+                "id": 5391,
+                "logo_path": "/o5AcK10ViutenSa4XTD18ClCEWe.png",
+                "name": "DisneyToon Studios",
                 "origin_country": "US"
             }
         ],
@@ -947,9 +1125,9 @@
                 "name": "United States of America"
             }
         ],
-        "release_date": "1977-06-22",
-        "revenue": 169015869,
-        "runtime": 78,
+        "release_date": "2003-03-02",
+        "revenue": 0,
+        "runtime": 74,
         "softcore": false,
         "spoken_languages": [
             {
@@ -959,274 +1137,97 @@
             }
         ],
         "status": "Released",
-        "tagline": "Two tiny agents vs. the world's wickedest woman in a dazzling animated adventure!",
-        "title": "The Rescuers",
+        "tagline": "A new hero unleashed.",
+        "title": "101 Dalmatians II: Patch's London Adventure",
         "video": false,
-        "vote_average": 6.8,
-        "vote_count": 2742,
+        "vote_average": 6.026,
+        "vote_count": 1270,
         "keywords": {
             "keywords": [
                 {
-                    "id": 10084,
-                    "name": "rescue"
-                },
-                {
-                    "id": 1930,
-                    "name": "kidnapping"
-                },
-                {
-                    "id": 2161,
-                    "name": "mouse"
+                    "id": 212,
+                    "name": "london, england"
                 },
                 {
                     "id": 6513,
                     "name": "cartoon"
                 },
                 {
-                    "id": 3289,
-                    "name": "villain"
-                },
-                {
-                    "id": 11107,
-                    "name": "rescue mission"
-                },
-                {
-                    "id": 4725,
-                    "name": "baby-snatching"
-                },
-                {
-                    "id": 5344,
-                    "name": "bottle"
-                },
-                {
-                    "id": 10591,
-                    "name": "energy"
-                },
-                {
-                    "id": 14617,
-                    "name": "mole"
-                },
-                {
-                    "id": 155325,
-                    "name": "cartoon mouse"
-                },
-                {
-                    "id": 158027,
-                    "name": "tide"
-                },
-                {
-                    "id": 166726,
-                    "name": "female villain"
-                },
-                {
-                    "id": 282600,
-                    "name": "girl"
-                }
-            ]
-        }
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/16aJtXO6lObbBUr11IvkjB1QD1f.jpg",
-        "belongs_to_collection": {
-            "id": 344830,
-            "name": "Fifty Shades Collection",
-            "poster_path": "/1U4vHY4wOWFUMUCRLE6aAxAVKeU.jpg",
-            "backdrop_path": "/f7F56YyMX9G6L4ffqNpA9zlG6fm.jpg"
-        },
-        "budget": 55000000,
-        "genres": [
-            {
-                "id": 18,
-                "name": "Drama"
-            },
-            {
-                "id": 10749,
-                "name": "Romance"
-            }
-        ],
-        "homepage": "http://www.fiftyshadesmovie.com/",
-        "id": 341174,
-        "imdb_id": "tt4465564",
-        "origin_country": [
-            "US"
-        ],
-        "original_language": "en",
-        "original_title": "Fifty Shades Darker",
-        "overview": "When a wounded Christian Grey tries to entice a cautious Ana Steele back into his life, she demands a new arrangement before she will give him another chance. As the two begin to build trust and find stability, shadowy figures from Christian’s past start to circle the couple, determined to destroy their hopes for a future together.",
-        "popularity": 13.0194,
-        "poster_path": "/w3qa274gvca9t8pkUoG8nfQgTU3.jpg",
-        "production_companies": [
-            {
-                "id": 33,
-                "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
-                "name": "Universal Pictures",
-                "origin_country": "US"
-            },
-            {
-                "id": 11370,
-                "logo_path": null,
-                "name": "Michael De Luca Productions",
-                "origin_country": "US"
-            },
-            {
-                "id": 214539,
-                "logo_path": "/4gwffulJi8mbMOEWhB7l96bqPnO.png",
-                "name": "Perfect World Pictures",
-                "origin_country": "US"
-            }
-        ],
-        "production_countries": [
-            {
-                "iso_3166_1": "US",
-                "name": "United States of America"
-            }
-        ],
-        "release_date": "2017-02-08",
-        "revenue": 381545846,
-        "runtime": 118,
-        "softcore": false,
-        "spoken_languages": [
-            {
-                "english_name": "English",
-                "iso_639_1": "en",
-                "name": "English"
-            }
-        ],
-        "status": "Released",
-        "tagline": "Every fairy tale has a dark side.",
-        "title": "Fifty Shades Darker",
-        "video": false,
-        "vote_average": 6.5,
-        "vote_count": 8020,
-        "keywords": {
-            "keywords": [
-                {
-                    "id": 818,
-                    "name": "based on novel or book"
-                },
-                {
-                    "id": 1422,
-                    "name": "boat"
-                },
-                {
-                    "id": 1664,
-                    "name": "eroticism"
-                },
-                {
-                    "id": 5091,
-                    "name": "kiss"
-                },
-                {
                     "id": 9663,
                     "name": "sequel"
                 },
                 {
-                    "id": 158713,
-                    "name": "bdsm"
+                    "id": 8841,
+                    "name": "puppy"
                 },
                 {
-                    "id": 241804,
-                    "name": "toxic relationship"
+                    "id": 15162,
+                    "name": "dog"
                 },
                 {
-                    "id": 261264,
-                    "name": "dreary"
+                    "id": 158369,
+                    "name": "dalmatian"
                 },
                 {
-                    "id": 384872,
-                    "name": "based on fanfiction"
+                    "id": 179430,
+                    "name": "aftercreditsstinger"
                 }
             ]
         }
     },
     {
         "adult": false,
-        "backdrop_path": "/rlKB2moKVOPasy4Dr19QluzbJgA.jpg",
+        "backdrop_path": "/uNToXatdunyvWXyXMrTI1nLvh6r.jpg",
         "belongs_to_collection": null,
-        "budget": 100000000,
+        "budget": 0,
         "genres": [
             {
-                "id": 80,
-                "name": "Crime"
+                "id": 35,
+                "name": "Comedy"
             },
             {
-                "id": 36,
-                "name": "History"
+                "id": 878,
+                "name": "Science Fiction"
             },
             {
-                "id": 18,
-                "name": "Drama"
+                "id": 28,
+                "name": "Action"
             }
         ],
-        "homepage": "",
-        "id": 11322,
-        "imdb_id": "tt1152836",
+        "homepage": "https://www.20thcenturystudios.com/movies/mike-and-nick-and-nick-and-alice",
+        "id": 1115544,
+        "imdb_id": "tt27552099",
         "origin_country": [
             "US"
         ],
         "original_language": "en",
-        "original_title": "Public Enemies",
-        "overview": "Depression-era bank robber John Dillinger's charm and audacity endear him to much of America's downtrodden public, but he's also a thorn in the side of J. Edgar Hoover and the fledgling FBI. Desperate to capture the elusive outlaw, Hoover makes Dillinger his first Public Enemy Number One and assigns his top agent, Melvin Purvis, the task of bringing him in dead or alive.",
-        "popularity": 13.2281,
-        "poster_path": "/3KgtekisQBrHRsm2cD5UOB6Ce3k.jpg",
+        "original_title": "Mike & Nick & Nick & Alice",
+        "overview": "Two gangsters and the woman they love try to survive the most dangerous night of their lives. As if that wasn’t enough, there’s one wild ingredient added to the mix: a time machine.",
+        "popularity": 12.6224,
+        "poster_path": "/7F0jc75HrSkLVcvOXR2FXAIwuEv.jpg",
         "production_companies": [
             {
-                "id": 33,
-                "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
-                "name": "Universal Pictures",
+                "id": 127928,
+                "logo_path": "/h0rjX5vjW5r8yEnUBStFarjcLT4.png",
+                "name": "20th Century Studios",
                 "origin_country": "US"
             },
             {
-                "id": 7295,
-                "logo_path": "/5MYE96QiE5a5oFhXxFb4y8ILSpw.png",
-                "name": "Relativity Media",
+                "id": 1757,
+                "logo_path": "/fc9qw5GoTbyWGa0QcfbsZFzuMKQ.png",
+                "name": "Mad Chance",
                 "origin_country": "US"
-            },
-            {
-                "id": 675,
-                "logo_path": "/fy7laY9J4tbYz7yNxGEKmoMrXRt.png",
-                "name": "Forward Pass",
-                "origin_country": "US"
-            },
-            {
-                "id": 11581,
-                "logo_path": "/yIORcWTFHtbXvWjqXAqFuMxx0K0.png",
-                "name": "Misher Films",
-                "origin_country": "US"
-            },
-            {
-                "id": 11391,
-                "logo_path": "/t6m0uRTzaFHCsvEpikENE0PWJGb.png",
-                "name": "Tribeca Productions",
-                "origin_country": "US"
-            },
-            {
-                "id": 562,
-                "logo_path": "/azANEzu3H3Kztzt63sdjvlzxhuB.png",
-                "name": "Appian Way",
-                "origin_country": "US"
-            },
-            {
-                "id": 1778,
-                "logo_path": "/b5rT6VbYza3LyfltCmz1OcqzWJM.png",
-                "name": "dentsu",
-                "origin_country": "JP"
             }
         ],
         "production_countries": [
             {
                 "iso_3166_1": "US",
                 "name": "United States of America"
-            },
-            {
-                "iso_3166_1": "JP",
-                "name": "Japan"
             }
         ],
-        "release_date": "2009-07-01",
-        "revenue": 214104620,
-        "runtime": 140,
+        "release_date": "2026-03-14",
+        "revenue": 0,
+        "runtime": 107,
         "softcore": false,
         "spoken_languages": [
             {
@@ -1236,108 +1237,686 @@
             }
         ],
         "status": "Released",
-        "tagline": "America's most wanted.",
-        "title": "Public Enemies",
+        "tagline": "A time-traveling, double-crossing, ass-kicking comedy.",
+        "title": "Mike & Nick & Nick & Alice",
         "video": false,
-        "vote_average": 6.686,
-        "vote_count": 4988,
+        "vote_average": 6.684,
+        "vote_count": 468,
         "keywords": {
             "keywords": [
                 {
-                    "id": 10685,
-                    "name": "escape"
+                    "id": 128,
+                    "name": "love triangle"
                 },
                 {
-                    "id": 1419,
-                    "name": "gun"
+                    "id": 2708,
+                    "name": "hitman"
                 },
                 {
                     "id": 3149,
                     "name": "gangster"
                 },
                 {
-                    "id": 4276,
-                    "name": "machinegun"
+                    "id": 4379,
+                    "name": "time travel"
                 },
                 {
-                    "id": 643,
-                    "name": "horse race"
+                    "id": 5455,
+                    "name": "time machine"
                 },
                 {
-                    "id": 5565,
-                    "name": "biography"
+                    "id": 10950,
+                    "name": "shootout"
                 },
                 {
-                    "id": 9774,
-                    "name": "prison guard"
+                    "id": 166462,
+                    "name": "mob boss"
                 },
                 {
-                    "id": 9777,
-                    "name": "prison escape"
+                    "id": 166631,
+                    "name": "loan shark"
                 },
                 {
-                    "id": 15363,
-                    "name": "bank robbery"
+                    "id": 167541,
+                    "name": "buddy comedy"
                 },
                 {
-                    "id": 18420,
-                    "name": "surveillance"
+                    "id": 251639,
+                    "name": "friends love same woman"
                 },
                 {
-                    "id": 34156,
-                    "name": "tied up"
+                    "id": 310672,
+                    "name": "violence action"
                 },
                 {
-                    "id": 41616,
-                    "name": "cops and robbers "
+                    "id": 325770,
+                    "name": "approving"
                 },
                 {
-                    "id": 173594,
-                    "name": "handgun"
+                    "id": 345392,
+                    "name": "action sequence"
                 },
                 {
-                    "id": 174908,
-                    "name": "pocket watch"
+                    "id": 347804,
+                    "name": "action film"
                 },
                 {
-                    "id": 186356,
-                    "name": "escape from jail"
+                    "id": 358398,
+                    "name": "action choreography"
                 },
                 {
-                    "id": 214548,
-                    "name": "1930s"
+                    "id": 362605,
+                    "name": "fight scene"
                 },
                 {
-                    "id": 226499,
-                    "name": "manhunt"
+                    "id": 367183,
+                    "name": "sci-fi action"
                 },
                 {
-                    "id": 234755,
-                    "name": "vicious killings"
+                    "id": 370675,
+                    "name": "multi‑timeline characters"
                 },
                 {
-                    "id": 236170,
-                    "name": "1900s"
+                    "id": 370677,
+                    "name": "unpredictable situations"
                 },
                 {
-                    "id": 267122,
-                    "name": "sex"
+                    "id": 370678,
+                    "name": "fractured friendships"
                 },
                 {
-                    "id": 272551,
-                    "name": "fbi agent"
+                    "id": 370799,
+                    "name": "buddy action"
+                }
+            ]
+        }
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/w3LLngJIAA1R7Mp2S3G0HZl2R3H.jpg",
+        "belongs_to_collection": {
+            "id": 493668,
+            "name": "Gnomeo & Juliet Collection",
+            "poster_path": "/wi7GqaMzxaCcbFMcZ0ZepsMYXrW.jpg",
+            "backdrop_path": "/fc4t3iBmakjxjhPejUZJarmidJy.jpg"
+        },
+        "budget": 36000000,
+        "genres": [
+            {
+                "id": 16,
+                "name": "Animation"
+            },
+            {
+                "id": 10751,
+                "name": "Family"
+            }
+        ],
+        "homepage": "http://gnomeoandjuliet.com/",
+        "id": 45772,
+        "imdb_id": "tt0377981",
+        "origin_country": [
+            "GB"
+        ],
+        "original_language": "en",
+        "original_title": "Gnomeo & Juliet",
+        "overview": "A version of Shakespeare's play, set in the world of warring indoor and outdoor gnomes. Garden gnomes Gnomeo and Juliet have as many obstacles to overcome as their quasi namesakes when they are caught up in a feud between neighbors. But with plastic pink flamingos and lawnmower races in the mix, can this young couple find lasting happiness?",
+        "popularity": 12.6205,
+        "poster_path": "/vVQwgfS9gSFviVT4gS7tZAmhRFc.jpg",
+        "production_companies": [
+            {
+                "id": 9195,
+                "logo_path": "/geK5QOBsXIPGHutKwXtYjMUyYSG.png",
+                "name": "Touchstone Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 2885,
+                "logo_path": "/9VYog24k93pfjB5X5YqJcg4Ane1.png",
+                "name": "Starz Animation",
+                "origin_country": "CA"
+            },
+            {
+                "id": 28320,
+                "logo_path": "/5UPGj1MwzrtxclRGTfeiQ1J0zVk.png",
+                "name": "Rocket Pictures",
+                "origin_country": "GB"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            },
+            {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            }
+        ],
+        "release_date": "2011-01-13",
+        "revenue": 189712432,
+        "runtime": 84,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "The greatest love story you have never gnome.",
+        "title": "Gnomeo & Juliet",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 2124,
+        "keywords": {
+            "keywords": [
+                {
+                    "id": 2105,
+                    "name": "garden"
                 },
                 {
-                    "id": 301630,
-                    "name": "tied to a tree"
+                    "id": 3289,
+                    "name": "villain"
                 },
                 {
-                    "id": 301631,
-                    "name": "tied"
+                    "id": 3691,
+                    "name": "forbidden love"
                 },
                 {
-                    "id": 301632,
-                    "name": "semi-automatic rifle"
+                    "id": 5091,
+                    "name": "kiss"
+                },
+                {
+                    "id": 10181,
+                    "name": "based on play or musical"
+                },
+                {
+                    "id": 6722,
+                    "name": "orchid"
+                },
+                {
+                    "id": 9673,
+                    "name": "love"
+                },
+                {
+                    "id": 244967,
+                    "name": "animate statue"
+                },
+                {
+                    "id": 278823,
+                    "name": "3d animation"
+                }
+            ]
+        }
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sJL9R7V1VZcB7i6so6zrQSfYrWa.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 12,
+                "name": "Adventure"
+            },
+            {
+                "id": 14,
+                "name": "Fantasy"
+            },
+            {
+                "id": 9648,
+                "name": "Mystery"
+            },
+            {
+                "id": 27,
+                "name": "Horror"
+            }
+        ],
+        "homepage": "",
+        "id": 928480,
+        "imdb_id": "tt3954936",
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "Monster Summer",
+        "overview": "When a mysterious force begins to disrupt their big summer fun, Noah and his friends team up with a retired police detective to embark on a monstrous adventure to save their island.",
+        "popularity": 12.6179,
+        "poster_path": "/zD2UZkh0DwbDEMuOKIR7jgwgulZ.jpg",
+        "production_companies": [
+            {
+                "id": 110723,
+                "logo_path": "/27Od860h9Xc7gDS3Pph6yRlUyBI.png",
+                "name": "Nickel City Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 106029,
+                "logo_path": null,
+                "name": "Novo Media Group",
+                "origin_country": ""
+            },
+            {
+                "id": 241875,
+                "logo_path": "/fLqn5H6SGW7ObyKLGwAqNhTzs82.png",
+                "name": "Pasttime Pictures",
+                "origin_country": "US"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2024-10-04",
+        "revenue": 1331288,
+        "runtime": 98,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "It's the summer when everything changed.",
+        "title": "Monster Summer",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 217,
+        "keywords": {
+            "keywords": [
+                {
+                    "id": 616,
+                    "name": "witch"
+                },
+                {
+                    "id": 6054,
+                    "name": "friendship"
+                },
+                {
+                    "id": 2041,
+                    "name": "island"
+                },
+                {
+                    "id": 703,
+                    "name": "detective"
+                },
+                {
+                    "id": 13088,
+                    "name": "summer"
+                },
+                {
+                    "id": 68646,
+                    "name": "supernatural creature"
+                },
+                {
+                    "id": 162532,
+                    "name": "shape shifter"
+                },
+                {
+                    "id": 265045,
+                    "name": "retired detective"
+                },
+                {
+                    "id": 320894,
+                    "name": "soul hunter"
+                }
+            ]
+        }
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zsgdVbuEwqZbnUN9qLGEMBYf2Zo.jpg",
+        "belongs_to_collection": {
+            "id": 2326,
+            "name": "Underworld Collection",
+            "poster_path": "/aK8qq0X0pZbf5ncE3JLQ27hdC4F.jpg",
+            "backdrop_path": "/9UUkl9kZKuNUHrN9ni9ojgmcPFe.jpg"
+        },
+        "budget": 22000000,
+        "genres": [
+            {
+                "id": 14,
+                "name": "Fantasy"
+            },
+            {
+                "id": 28,
+                "name": "Action"
+            },
+            {
+                "id": 53,
+                "name": "Thriller"
+            }
+        ],
+        "homepage": "https://www.sonypictures.com/movies/underworld",
+        "id": 277,
+        "imdb_id": "tt0320691",
+        "origin_country": [
+            "US",
+            "GB"
+        ],
+        "original_language": "en",
+        "original_title": "Underworld",
+        "overview": "Vampires and werewolves have waged a nocturnal war against each other for centuries. But all bets are off when a female vampire warrior named Selene, who's famous for her strength and werewolf-hunting prowess, becomes smitten with a peace-loving male werewolf, Michael, who wants to end the war.",
+        "popularity": 12.6127,
+        "poster_path": "/zsnQ41UZ3jo1wEeemF0eA9cAIU0.jpg",
+        "production_companies": [
+            {
+                "id": 3287,
+                "logo_path": "/bz6GbCQQXGNE56LTW9dwgksW0Iw.png",
+                "name": "Screen Gems",
+                "origin_country": "US"
+            },
+            {
+                "id": 126,
+                "logo_path": "/kADPanRDkKTxncPXXVahvHPUvCj.png",
+                "name": "Lakeshore Entertainment",
+                "origin_country": "US"
+            },
+            {
+                "id": 7735,
+                "logo_path": null,
+                "name": "Subterranean Productions UK Ltd.",
+                "origin_country": ""
+            },
+            {
+                "id": 7736,
+                "logo_path": null,
+                "name": "Underworld Produktions GmbH",
+                "origin_country": ""
+            },
+            {
+                "id": 7733,
+                "logo_path": null,
+                "name": "Laurinfilm",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            },
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "DE",
+                "name": "Germany"
+            }
+        ],
+        "release_date": "2003-09-19",
+        "revenue": 95708457,
+        "runtime": 122,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "An immortal battle for supremacy.",
+        "title": "Underworld",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 6820,
+        "keywords": {
+            "keywords": [
+                {
+                    "id": 810,
+                    "name": "budapest, hungary"
+                },
+                {
+                    "id": 2038,
+                    "name": "love of one's life"
+                },
+                {
+                    "id": 3133,
+                    "name": "vampire"
+                },
+                {
+                    "id": 1552,
+                    "name": "subway"
+                },
+                {
+                    "id": 6062,
+                    "name": "hostility"
+                },
+                {
+                    "id": 4197,
+                    "name": "bite"
+                },
+                {
+                    "id": 4198,
+                    "name": "descendant"
+                },
+                {
+                    "id": 9410,
+                    "name": "hybrid"
+                },
+                {
+                    "id": 9823,
+                    "name": "rivalry"
+                },
+                {
+                    "id": 10950,
+                    "name": "shootout"
+                },
+                {
+                    "id": 12564,
+                    "name": "werewolf"
+                },
+                {
+                    "id": 33505,
+                    "name": "gothic"
+                },
+                {
+                    "id": 177895,
+                    "name": "dark fantasy"
+                },
+                {
+                    "id": 228001,
+                    "name": "lycanthrope"
+                },
+                {
+                    "id": 232469,
+                    "name": "urban gothic"
+                },
+                {
+                    "id": 251513,
+                    "name": "supernatural power"
+                }
+            ]
+        }
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+            {
+                "id": 18,
+                "name": "Drama"
+            }
+        ],
+        "homepage": "",
+        "id": 569672,
+        "imdb_id": "tt6917516",
+        "origin_country": [
+            "CN"
+        ],
+        "original_language": "zh",
+        "original_title": "村妓",
+        "overview": "A story about a rural family in China. The husband stays at home and farms the land, while the wife goes into town to be a prostitute to earn more money.",
+        "popularity": 12.6094,
+        "poster_path": "/79nrNSetkisjBDUuRRb1ZBU359v.jpg",
+        "production_companies": [
+            {
+                "id": 43928,
+                "logo_path": null,
+                "name": "Cameron Entertainment Co., Ltd.",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [],
+        "release_date": "1994-01-01",
+        "revenue": 0,
+        "runtime": 88,
+        "softcore": false,
+        "spoken_languages": [],
+        "status": "Released",
+        "tagline": "",
+        "title": "Mainland Prostitute",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 4,
+        "keywords": {
+            "keywords": []
+        }
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pqVFdQDe0wbZRKg6GDyx3ghYXag.jpg",
+        "belongs_to_collection": {
+            "id": 103577,
+            "name": "The Whole Nine/Ten Yards Collection",
+            "poster_path": "/hm9FwWuBP1xxhh5HyLlGnboYOIo.jpg",
+            "backdrop_path": "/ttaiuuOHjYLTszcbADBZImqRK5H.jpg"
+        },
+        "budget": 41300000,
+        "genres": [
+            {
+                "id": 35,
+                "name": "Comedy"
+            },
+            {
+                "id": 80,
+                "name": "Crime"
+            }
+        ],
+        "homepage": "",
+        "id": 2069,
+        "imdb_id": "tt0190138",
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "original_title": "The Whole Nine Yards",
+        "overview": "After a mobster agrees to cooperate with an FBI investigation in order to stay out of prison, he's relocated by the authorities to a life of suburban anonymity as part of a witness protection program. It's not long before a couple of his new neighbours figure out his true identity and come knocking to see if he'd be up for one more hit—suburban style.",
+        "popularity": 12.6034,
+        "poster_path": "/rDV7ntPLY0ZDBT722Odsi80nFrn.jpg",
+        "production_companies": [
+            {
+                "id": 53013,
+                "logo_path": null,
+                "name": "Rational Packaging",
+                "origin_country": ""
+            },
+            {
+                "id": 53014,
+                "logo_path": null,
+                "name": "Lansdown Films",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2000-02-18",
+        "revenue": 106371651,
+        "runtime": 98,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            },
+            {
+                "english_name": "French",
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
+            {
+                "english_name": "Spanish",
+                "iso_639_1": "es",
+                "name": "Español"
+            }
+        ],
+        "status": "Released",
+        "tagline": "In the heart of suburbia, a hit man with heart has just moved in.",
+        "title": "The Whole Nine Yards",
+        "video": false,
+        "vote_average": 6.473,
+        "vote_count": 2149,
+        "keywords": {
+            "keywords": [
+                {
+                    "id": 520,
+                    "name": "chicago, illinois"
+                },
+                {
+                    "id": 2708,
+                    "name": "hitman"
+                },
+                {
+                    "id": 3149,
+                    "name": "gangster"
+                },
+                {
+                    "id": 2547,
+                    "name": "new identity"
+                },
+                {
+                    "id": 10123,
+                    "name": "dark comedy"
+                },
+                {
+                    "id": 6719,
+                    "name": "montreal, canada"
+                },
+                {
+                    "id": 10391,
+                    "name": "mafia"
+                },
+                {
+                    "id": 13112,
+                    "name": "murderer"
+                },
+                {
+                    "id": 14632,
+                    "name": "suburb"
+                },
+                {
+                    "id": 15160,
+                    "name": "divorce"
+                },
+                {
+                    "id": 33780,
+                    "name": "dentist"
+                },
+                {
+                    "id": 160488,
+                    "name": "hoodlum"
+                },
+                {
+                    "id": 215257,
+                    "name": "unhappy marriage"
                 }
             ]
         }
@@ -1476,141 +2055,202 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/z1Z1vW3bu27UUXD70vyqAcCeXU1.jpg",
+        "backdrop_path": "/6VZF8JVNOgJX56WCapYaqcVQiAw.jpg",
         "belongs_to_collection": null,
-        "budget": 0,
+        "budget": 75000000,
         "genres": [
             {
-                "id": 35,
-                "name": "Comedy"
+                "id": 18,
+                "name": "Drama"
+            },
+            {
+                "id": 80,
+                "name": "Crime"
+            },
+            {
+                "id": 36,
+                "name": "History"
             }
         ],
-        "homepage": "https://tv.apple.com/movie/umc.cmc.5tugaz9vt498ajn7q64ypaqxn",
-        "id": 1361774,
-        "imdb_id": "tt33499146",
+        "homepage": "https://www.mgm.com/movies/gucci",
+        "id": 644495,
+        "imdb_id": "tt11214590",
         "origin_country": [
             "US"
         ],
         "original_language": "en",
-        "original_title": "The Dink",
-        "overview": "Desperate to save a struggling country club and earn his father's respect, a washed-up tennis pro is compelled to break a sacred vow and do the unthinkable: play pickleball.",
-        "popularity": 12.1337,
-        "poster_path": "/8dq7vaUkXPqwqKxBFW4qJNBWeop.jpg",
+        "original_title": "House of Gucci",
+        "overview": "When Patrizia Reggiani, an outsider from humble beginnings, marries into the Gucci family, her unbridled ambition begins to unravel the family legacy and triggers a reckless spiral of betrayal, decadence, revenge, and ultimately… murder.",
+        "popularity": 12.6005,
+        "poster_path": "/oJCQjD2byiVF1EG408F9dBn9ndU.jpg",
         "production_companies": [
             {
-                "id": 2932,
-                "logo_path": "/4uLKLjGivVg2YnAIhAn8k7ZuVFj.png",
-                "name": "Red Hour",
+                "id": 21,
+                "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+                "name": "Metro-Goldwyn-Mayer",
                 "origin_country": "US"
             },
             {
-                "id": 156327,
-                "logo_path": null,
-                "name": "Rivulet Entertainment",
+                "id": 13240,
+                "logo_path": "/aTc07YaNHo8WNgkQSnvLmG6w4nW.png",
+                "name": "Bron Studios",
+                "origin_country": "CA"
+            },
+            {
+                "id": 221347,
+                "logo_path": "/6Ry6uNBaa0IbbSs1XYIgX5DkA9r.png",
+                "name": "Scott Free Productions",
                 "origin_country": "US"
             }
         ],
         "production_countries": [
             {
+                "iso_3166_1": "CA",
+                "name": "Canada"
+            },
+            {
                 "iso_3166_1": "US",
                 "name": "United States of America"
             }
         ],
-        "release_date": "2026-07-23",
-        "revenue": 0,
-        "runtime": 103,
+        "release_date": "2021-11-24",
+        "revenue": 153235995,
+        "runtime": 158,
         "softcore": false,
         "spoken_languages": [
+            {
+                "english_name": "Italian",
+                "iso_639_1": "it",
+                "name": "Italiano"
+            },
+            {
+                "english_name": "Japanese",
+                "iso_639_1": "ja",
+                "name": "日本語"
+            },
+            {
+                "english_name": "French",
+                "iso_639_1": "fr",
+                "name": "Français"
+            },
             {
                 "english_name": "English",
                 "iso_639_1": "en",
                 "name": "English"
+            },
+            {
+                "english_name": "Portuguese",
+                "iso_639_1": "pt",
+                "name": "Português"
+            },
+            {
+                "english_name": "Arabic",
+                "iso_639_1": "ar",
+                "name": "العربية"
             }
         ],
         "status": "Released",
-        "tagline": "",
-        "title": "The Dink",
+        "tagline": "A legacy worth killing for.",
+        "title": "House of Gucci",
         "video": false,
-        "vote_average": 6.405,
-        "vote_count": 152,
+        "vote_average": 6.6,
+        "vote_count": 3539,
         "keywords": {
             "keywords": [
                 {
-                    "id": 6075,
-                    "name": "sports"
+                    "id": 5809,
+                    "name": "marriage crisis"
                 },
                 {
-                    "id": 1488,
-                    "name": "tennis"
+                    "id": 131,
+                    "name": "italy"
                 },
                 {
-                    "id": 2367,
-                    "name": "rehabilitation"
+                    "id": 5565,
+                    "name": "biography"
                 },
                 {
-                    "id": 228041,
-                    "name": "prodigy"
+                    "id": 9672,
+                    "name": "based on true story"
                 },
                 {
-                    "id": 309176,
-                    "name": "washed up"
+                    "id": 7024,
+                    "name": "fashion designer"
                 },
                 {
-                    "id": 335806,
-                    "name": "sports comedy"
+                    "id": 9826,
+                    "name": "murder"
                 },
                 {
-                    "id": 353640,
-                    "name": "pickleball"
+                    "id": 15479,
+                    "name": "fashion"
+                },
+                {
+                    "id": 163221,
+                    "name": "failing marriage"
+                },
+                {
+                    "id": 208289,
+                    "name": "1980s"
+                },
+                {
+                    "id": 210608,
+                    "name": "1990s"
+                },
+                {
+                    "id": 222974,
+                    "name": "rich family"
+                },
+                {
+                    "id": 249641,
+                    "name": "gucci"
+                },
+                {
+                    "id": 325767,
+                    "name": "apathetic"
+                },
+                {
+                    "id": 325803,
+                    "name": "dubious"
                 }
             ]
         }
     },
     {
         "adult": false,
-        "backdrop_path": "/faEe5nH1VP2xMmE8f9lgqjhsmYI.jpg",
+        "backdrop_path": "/oVp4NyyOqVPKrv5PBA7Sjwoh09S.jpg",
         "belongs_to_collection": null,
-        "budget": 35000000,
+        "budget": 100000000,
         "genres": [
+            {
+                "id": 28,
+                "name": "Action"
+            },
             {
                 "id": 27,
                 "name": "Horror"
             },
             {
-                "id": 35,
-                "name": "Comedy"
-            },
-            {
-                "id": 10749,
-                "name": "Romance"
-            },
-            {
-                "id": 878,
-                "name": "Science Fiction"
+                "id": 14,
+                "name": "Fantasy"
             }
         ],
         "homepage": "",
-        "id": 82654,
-        "imdb_id": "tt1588173",
+        "id": 9946,
+        "imdb_id": "tt0146675",
         "origin_country": [
             "US"
         ],
         "original_language": "en",
-        "original_title": "Warm Bodies",
-        "overview": "After a zombie becomes involved with the girlfriend of one of his victims, their romance sets in motion a sequence of events that might transform the entire lifeless world.",
-        "popularity": 12.8239,
-        "poster_path": "/pvVpl38YOBDOANb0pWbXFb8X3iZ.jpg",
+        "original_title": "End of Days",
+        "overview": "Cynical bodyguard Jericho is hired by a man possessed by Satan, who is in search of his bride. When Jericho realizes what is happening, he must do everything he can to save the woman and the world.",
+        "popularity": 12.5992,
+        "poster_path": "/pY8FbKKl3VD0jRI1iDFrwN6alLa.jpg",
         "production_companies": [
             {
-                "id": 491,
-                "logo_path": "/5LvDUt3KmvRnXQ4NrdWJYHeuA8J.png",
-                "name": "Summit Entertainment",
-                "origin_country": "US"
-            },
-            {
-                "id": 10227,
-                "logo_path": "/3YfRy3DBl4abcqkzGx4RVNz12yl.png",
-                "name": "Mandeville Films",
+                "id": 919,
+                "logo_path": null,
+                "name": "Beacon Communications",
                 "origin_country": "US"
             }
         ],
@@ -1620,9 +2260,9 @@
                 "name": "United States of America"
             }
         ],
-        "release_date": "2013-01-31",
-        "revenue": 117000000,
-        "runtime": 98,
+        "release_date": "1999-11-24",
+        "revenue": 212000000,
+        "runtime": 122,
         "softcore": false,
         "spoken_languages": [
             {
@@ -1632,36 +2272,265 @@
             }
         ],
         "status": "Released",
-        "tagline": "He's still dead, but he's getting warmer.",
-        "title": "Warm Bodies",
+        "tagline": "Prepare for the end.",
+        "title": "End of Days",
         "video": false,
-        "vote_average": 6.5,
-        "vote_count": 6508,
+        "vote_average": 6.1,
+        "vote_count": 2161,
         "keywords": {
             "keywords": [
                 {
-                    "id": 818,
-                    "name": "based on novel or book"
+                    "id": 613,
+                    "name": "new year's eve"
                 },
                 {
-                    "id": 4565,
-                    "name": "dystopia"
+                    "id": 242,
+                    "name": "new york city"
                 },
                 {
-                    "id": 4458,
-                    "name": "post-apocalyptic future"
+                    "id": 3030,
+                    "name": "nightmare"
                 },
                 {
-                    "id": 12377,
-                    "name": "zombie"
+                    "id": 6150,
+                    "name": "faith"
                 },
                 {
-                    "id": 186565,
-                    "name": "zombie apocalypse"
+                    "id": 186,
+                    "name": "christianity"
                 },
                 {
-                    "id": 212760,
-                    "name": "interspecies romance"
+                    "id": 1499,
+                    "name": "pastor"
+                },
+                {
+                    "id": 3036,
+                    "name": "bible"
+                },
+                {
+                    "id": 5545,
+                    "name": "satanist"
+                },
+                {
+                    "id": 8440,
+                    "name": "ex-cop"
+                },
+                {
+                    "id": 8778,
+                    "name": "atheist"
+                },
+                {
+                    "id": 8685,
+                    "name": "anti-christ"
+                },
+                {
+                    "id": 8686,
+                    "name": "millenium"
+                },
+                {
+                    "id": 10093,
+                    "name": "priest"
+                },
+                {
+                    "id": 11612,
+                    "name": "hospital"
+                },
+                {
+                    "id": 14601,
+                    "name": "explosion"
+                },
+                {
+                    "id": 14765,
+                    "name": "church"
+                },
+                {
+                    "id": 14999,
+                    "name": "devil"
+                },
+                {
+                    "id": 156593,
+                    "name": "ritual murder"
+                },
+                {
+                    "id": 162810,
+                    "name": "macabre"
+                },
+                {
+                    "id": 193897,
+                    "name": "hard"
+                },
+                {
+                    "id": 197056,
+                    "name": "meditative"
+                },
+                {
+                    "id": 199978,
+                    "name": "stigmata"
+                },
+                {
+                    "id": 201456,
+                    "name": "paranoid"
+                },
+                {
+                    "id": 212737,
+                    "name": "philosophical"
+                },
+                {
+                    "id": 256183,
+                    "name": "supernatural horror"
+                },
+                {
+                    "id": 261264,
+                    "name": "dreary"
+                },
+                {
+                    "id": 269233,
+                    "name": "good versus evil"
+                },
+                {
+                    "id": 284330,
+                    "name": "security agent"
+                },
+                {
+                    "id": 309974,
+                    "name": "absurd"
+                },
+                {
+                    "id": 325812,
+                    "name": "exhilarated"
+                },
+                {
+                    "id": 325819,
+                    "name": "frustrated"
+                }
+            ]
+        }
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ijmKdhQQ86L18ZUywjHjM7h7YgO.jpg",
+        "belongs_to_collection": {
+            "id": 35792,
+            "name": "Nanny McPhee Collection",
+            "poster_path": "/t3ZxOedy4ppwF6AdsGxKM7GX6aw.jpg",
+            "backdrop_path": "/n4O9qEDTEKA1KEeOOV0tbgECm0V.jpg"
+        },
+        "budget": 25000000,
+        "genres": [
+            {
+                "id": 14,
+                "name": "Fantasy"
+            },
+            {
+                "id": 35,
+                "name": "Comedy"
+            },
+            {
+                "id": 10751,
+                "name": "Family"
+            }
+        ],
+        "homepage": "",
+        "id": 11283,
+        "imdb_id": "tt0396752",
+        "origin_country": [
+            "GB"
+        ],
+        "original_language": "en",
+        "original_title": "Nanny McPhee",
+        "overview": "Widower Cedric Brown hires Nanny McPhee to care for his seven rambunctious children, who have chased away all previous nannies. Taunted by Simon and his siblings, Nanny McPhee uses mystical powers to instill discipline. And when the children's great-aunt and benefactor, Lady Adelaide Stitch, threatens to separate the kids, the family pulls together under the guidance of Nanny McPhee.",
+        "popularity": 12.5975,
+        "poster_path": "/8tommndfI0W62teXwSmXdmVZ7gz.jpg",
+        "production_companies": [
+            {
+                "id": 1973,
+                "logo_path": null,
+                "name": "Three Strange Angels",
+                "origin_country": "GB"
+            },
+            {
+                "id": 10163,
+                "logo_path": "/16KWBMmfPX0aJzDExDrPxSLj0Pg.png",
+                "name": "Working Title",
+                "origin_country": "GB"
+            },
+            {
+                "id": 21,
+                "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+                "name": "Metro-Goldwyn-Mayer",
+                "origin_country": "US"
+            },
+            {
+                "id": 694,
+                "logo_path": "/5LEHONGkZBIoWvp1ygHOF8iyi1M.png",
+                "name": "StudioCanal",
+                "origin_country": "FR"
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "FR",
+                "name": "France"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2005-10-21",
+        "revenue": 123276807,
+        "runtime": 97,
+        "softcore": false,
+        "spoken_languages": [
+            {
+                "english_name": "English",
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "You'll learn to love her. Warts and all.",
+        "title": "Nanny McPhee",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 3292,
+        "keywords": {
+            "keywords": [
+                {
+                    "id": 697,
+                    "name": "loss of loved one"
+                },
+                {
+                    "id": 2341,
+                    "name": "nanny"
+                },
+                {
+                    "id": 2470,
+                    "name": "education"
+                },
+                {
+                    "id": 10235,
+                    "name": "family relationships"
+                },
+                {
+                    "id": 33476,
+                    "name": "widower"
+                },
+                {
+                    "id": 33479,
+                    "name": "single father"
+                },
+                {
+                    "id": 177912,
+                    "name": "wizard"
+                },
+                {
+                    "id": 207928,
+                    "name": "19th century"
                 },
                 {
                     "id": 246466,
@@ -1672,241 +2541,45 @@
     },
     {
         "adult": false,
-        "backdrop_path": "/503LUrI9juBk1rktOPzxyMUTDEu.jpg",
+        "backdrop_path": "/k7GM13qRYSour3lk90Dq1EwdpoW.jpg",
         "belongs_to_collection": null,
         "budget": 50000000,
         "genres": [
             {
-                "id": 28,
-                "name": "Action"
+                "id": 18,
+                "name": "Drama"
             },
             {
-                "id": 14,
-                "name": "Fantasy"
+                "id": 53,
+                "name": "Thriller"
             },
-            {
-                "id": 27,
-                "name": "Horror"
-            }
-        ],
-        "homepage": "https://thecrow.movie/",
-        "id": 957452,
-        "imdb_id": "tt1340094",
-        "origin_country": [
-            "US"
-        ],
-        "original_language": "en",
-        "original_title": "The Crow",
-        "overview": "Soulmates Eric and Shelly are brutally murdered when the demons of her dark past catch up with them. Given the chance to save his true love by sacrificing himself, Eric sets out to seek merciless revenge on their killers, traversing the worlds of the living and the dead to put the wrong things right.",
-        "popularity": 12.6973,
-        "poster_path": "/g8TbOXrNMuqq7AaKqdvqS2oG4ob.jpg",
-        "production_companies": [
-            {
-                "id": 342,
-                "logo_path": "/kZ99mxyNvNgyAFjm7rcl9vfYmU8.png",
-                "name": "Davis Films",
-                "origin_country": "FR"
-            },
-            {
-                "id": 6455,
-                "logo_path": "/mc3rMk0tW5ajjbfqkB8xlp85Cdy.png",
-                "name": "Pressman Film",
-                "origin_country": "US"
-            },
-            {
-                "id": 51526,
-                "logo_path": null,
-                "name": "Hassell Free Productions",
-                "origin_country": "US"
-            },
-            {
-                "id": 67260,
-                "logo_path": "/oV2FZfhRcEc1HReC66e1L4t2qPV.png",
-                "name": "Electric Shadow Company",
-                "origin_country": "GB"
-            },
-            {
-                "id": 104363,
-                "logo_path": "/tKIimrvYUH02D4km00lCEDUYvIF.png",
-                "name": "30WEST",
-                "origin_country": "US"
-            },
-            {
-                "id": 189103,
-                "logo_path": "/hu0qcD4k7kfWpdAewqmJSUyZPa7.png",
-                "name": "Ashland Hill Media Finance",
-                "origin_country": "US"
-            },
-            {
-                "id": 7493,
-                "logo_path": "/fHitYiGUCkRafgt6VPYQlXWLkdp.png",
-                "name": "FilmNation Entertainment",
-                "origin_country": "US"
-            },
-            {
-                "id": 112609,
-                "logo_path": "/9lpuWYlMInFARjrNUhVAzBW2YzT.png",
-                "name": "Maze Pictures",
-                "origin_country": "DE"
-            },
-            {
-                "id": 25838,
-                "logo_path": null,
-                "name": "Occupant Entertainment",
-                "origin_country": "DE"
-            }
-        ],
-        "production_countries": [
-            {
-                "iso_3166_1": "FR",
-                "name": "France"
-            },
-            {
-                "iso_3166_1": "DE",
-                "name": "Germany"
-            },
-            {
-                "iso_3166_1": "GB",
-                "name": "United Kingdom"
-            },
-            {
-                "iso_3166_1": "US",
-                "name": "United States of America"
-            }
-        ],
-        "release_date": "2024-08-21",
-        "revenue": 24109036,
-        "runtime": 111,
-        "softcore": false,
-        "spoken_languages": [
-            {
-                "english_name": "English",
-                "iso_639_1": "en",
-                "name": "English"
-            }
-        ],
-        "status": "Released",
-        "tagline": "True love never dies.",
-        "title": "The Crow",
-        "video": false,
-        "vote_average": 5.8,
-        "vote_count": 1352,
-        "keywords": {
-            "keywords": [
-                {
-                    "id": 1157,
-                    "name": "husband wife relationship"
-                },
-                {
-                    "id": 815,
-                    "name": "soulmates"
-                },
-                {
-                    "id": 9715,
-                    "name": "superhero"
-                },
-                {
-                    "id": 10292,
-                    "name": "gore"
-                },
-                {
-                    "id": 4639,
-                    "name": "crow"
-                },
-                {
-                    "id": 9717,
-                    "name": "based on comic"
-                },
-                {
-                    "id": 9714,
-                    "name": "remake"
-                },
-                {
-                    "id": 9748,
-                    "name": "revenge"
-                },
-                {
-                    "id": 9826,
-                    "name": "murder"
-                },
-                {
-                    "id": 12415,
-                    "name": "back from the dead"
-                },
-                {
-                    "id": 34079,
-                    "name": "death"
-                },
-                {
-                    "id": 161184,
-                    "name": "reboot"
-                },
-                {
-                    "id": 188993,
-                    "name": "true love"
-                },
-                {
-                    "id": 191245,
-                    "name": "awakening"
-                },
-                {
-                    "id": 223521,
-                    "name": "dark romance"
-                },
-                {
-                    "id": 235620,
-                    "name": "re-imagining"
-                },
-                {
-                    "id": 262404,
-                    "name": "extreme violence"
-                }
-            ]
-        }
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/akBGSguhkAj1TXOdZUcL11e1hpH.jpg",
-        "belongs_to_collection": null,
-        "budget": 11000000,
-        "genres": [
             {
                 "id": 9648,
                 "name": "Mystery"
-            },
-            {
-                "id": 53,
-                "name": "Thriller"
             }
         ],
-        "homepage": "https://www.dropthemovie.com",
-        "id": 1249213,
-        "imdb_id": "tt32149847",
+        "homepage": "https://www.criterion.com/films/28058-the-game",
+        "id": 2649,
+        "imdb_id": "tt0119174",
         "origin_country": [
             "US"
         ],
         "original_language": "en",
-        "original_title": "Drop",
-        "overview": "Violet, a widowed mother on her first date in years, arrives at an upscale restaurant where she is relieved that her date, Henry, is more charming and handsome than she expected. But their chemistry begins to curdle as Violet begins being irritated and then terrorized by a series of anonymous drops to her phone.",
-        "popularity": 12.3436,
-        "poster_path": "/hSQPSW8aLjsMBfwqGjgJ6HozTkp.jpg",
+        "original_title": "The Game",
+        "overview": "In honor of his birthday, San Francisco banker Nicholas Van Orton, a financial genius and a cold-hearted loner, receives an unusual present from his younger brother, Conrad: a gift certificate to play a unique kind of game. In nary a nanosecond, Nicholas finds himself consumed by a dangerous set of ever-changing rules, unable to distinguish where the charade ends and reality begins.",
+        "popularity": 12.5974,
+        "poster_path": "/4UOa079915QjiTA2u5hT2yKVgUu.jpg",
         "production_companies": [
             {
-                "id": 3172,
-                "logo_path": "/rzKluDcRkIwHZK2pHsiT667A2Kw.png",
-                "name": "Blumhouse Productions",
+                "id": 1382,
+                "logo_path": "/8b5XGJ8YhZoEo9LgFP8KRQWHjYL.png",
+                "name": "PolyGram Filmed Entertainment",
                 "origin_country": "US"
             },
             {
-                "id": 2481,
-                "logo_path": "/vOQg26GjR0LnkN1Ph9uyog1UuOE.png",
-                "name": "Platinum Dunes",
-                "origin_country": "US"
-            },
-            {
-                "id": 33,
-                "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
-                "name": "Universal Pictures",
+                "id": 278,
+                "logo_path": "/r3Aya3Sy7f24t6Waaug3mQn6ew7.png",
+                "name": "Propaganda Films",
                 "origin_country": "US"
             }
         ],
@@ -1914,317 +2587,11 @@
             {
                 "iso_3166_1": "US",
                 "name": "United States of America"
-            },
-            {
-                "iso_3166_1": "IE",
-                "name": "Ireland"
             }
         ],
-        "release_date": "2025-04-07",
-        "revenue": 28748727,
-        "runtime": 95,
-        "softcore": false,
-        "spoken_languages": [
-            {
-                "english_name": "English",
-                "iso_639_1": "en",
-                "name": "English"
-            }
-        ],
-        "status": "Released",
-        "tagline": "Everyone's a suspect.",
-        "title": "Drop",
-        "video": false,
-        "vote_average": 6.3,
-        "vote_count": 980,
-        "keywords": {
-            "keywords": [
-                {
-                    "id": 1003,
-                    "name": "photographer"
-                },
-                {
-                    "id": 248,
-                    "name": "date"
-                },
-                {
-                    "id": 4129,
-                    "name": "widow"
-                },
-                {
-                    "id": 1946,
-                    "name": "restaurant"
-                },
-                {
-                    "id": 12565,
-                    "name": "psychological thriller"
-                },
-                {
-                    "id": 12570,
-                    "name": "whodunit"
-                },
-                {
-                    "id": 14768,
-                    "name": "single mother"
-                },
-                {
-                    "id": 157344,
-                    "name": "phone"
-                },
-                {
-                    "id": 207046,
-                    "name": "murder mystery"
-                },
-                {
-                    "id": 316332,
-                    "name": "mystery"
-                },
-                {
-                    "id": 316362,
-                    "name": "thriller"
-                },
-                {
-                    "id": 349573,
-                    "name": "threatening behavior"
-                }
-            ]
-        }
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/lTYGtgDRygku7iiFLWyiEc4wLzz.jpg",
-        "belongs_to_collection": {
-            "id": 1507701,
-            "name": "Apocalipsis Z Collection",
-            "poster_path": "/bsDPqTZVo2dxBCVYhLxy0Z2ycDu.jpg",
-            "backdrop_path": null
-        },
-        "budget": 0,
-        "genres": [
-            {
-                "id": 18,
-                "name": "Drama"
-            },
-            {
-                "id": 28,
-                "name": "Action"
-            },
-            {
-                "id": 27,
-                "name": "Horror"
-            }
-        ],
-        "homepage": "https://nostromopictures.com/en/movies/coming-soon/apocalipsis-z-el-principio-del-fin",
-        "id": 1118031,
-        "imdb_id": "tt27599851",
-        "origin_country": [
-            "ES"
-        ],
-        "original_language": "es",
-        "original_title": "Apocalipsis Z: el principio del fin",
-        "overview": "When a kind of rabies that transforms people into aggressive creatures spreads across the planet, Manel isolates himself at home with his cat, relying on his wits to survive; but soon they must go out in search of food, by land and by sea, dodging many dangers.",
-        "popularity": 12.7503,
-        "poster_path": "/wIGJnIFQlESkC2rLpfA8EDHqk4g.jpg",
-        "production_companies": [
-            {
-                "id": 11068,
-                "logo_path": "/jOdUllzDZRFy0tPIFDEwpP4Mpv4.png",
-                "name": "Nostromo Pictures",
-                "origin_country": "ES"
-            }
-        ],
-        "production_countries": [
-            {
-                "iso_3166_1": "ES",
-                "name": "Spain"
-            }
-        ],
-        "release_date": "2024-10-04",
-        "revenue": 500000,
-        "runtime": 119,
-        "softcore": false,
-        "spoken_languages": [
-            {
-                "english_name": "Arabic",
-                "iso_639_1": "ar",
-                "name": "العربية"
-            },
-            {
-                "english_name": "English",
-                "iso_639_1": "en",
-                "name": "English"
-            },
-            {
-                "english_name": "French",
-                "iso_639_1": "fr",
-                "name": "Français"
-            },
-            {
-                "english_name": "Galician",
-                "iso_639_1": "gl",
-                "name": "Galego"
-            },
-            {
-                "english_name": "German",
-                "iso_639_1": "de",
-                "name": "Deutsch"
-            },
-            {
-                "english_name": "Portuguese",
-                "iso_639_1": "pt",
-                "name": "Português"
-            },
-            {
-                "english_name": "Russian",
-                "iso_639_1": "ru",
-                "name": "Pусский"
-            },
-            {
-                "english_name": "Spanish",
-                "iso_639_1": "es",
-                "name": "Español"
-            }
-        ],
-        "status": "Released",
-        "tagline": "The beginning of the end has arrived.",
-        "title": "Apocalypse Z: The Beginning of the End",
-        "video": false,
-        "vote_average": 6.8,
-        "vote_count": 1304,
-        "keywords": {
-            "keywords": [
-                {
-                    "id": 818,
-                    "name": "based on novel or book"
-                },
-                {
-                    "id": 977,
-                    "name": "cat"
-                },
-                {
-                    "id": 2526,
-                    "name": "human animal relationship"
-                },
-                {
-                    "id": 5896,
-                    "name": "galicia, spain"
-                },
-                {
-                    "id": 10473,
-                    "name": "contagion spread"
-                },
-                {
-                    "id": 12377,
-                    "name": "zombie"
-                },
-                {
-                    "id": 183896,
-                    "name": "neighbor neighbor relationship"
-                },
-                {
-                    "id": 186565,
-                    "name": "zombie apocalypse"
-                },
-                {
-                    "id": 257081,
-                    "name": "traumatized man"
-                }
-            ]
-        }
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/lU1fQews2gye23PocVE48CsTmOQ.jpg",
-        "belongs_to_collection": null,
-        "budget": 15000000,
-        "genres": [
-            {
-                "id": 28,
-                "name": "Action"
-            },
-            {
-                "id": 18,
-                "name": "Drama"
-            },
-            {
-                "id": 10749,
-                "name": "Romance"
-            },
-            {
-                "id": 53,
-                "name": "Thriller"
-            }
-        ],
-        "homepage": "http://www.bvi.com.tw/movies/lust_caution/main.html",
-        "id": 4588,
-        "imdb_id": "tt0808357",
-        "origin_country": [
-            "TW"
-        ],
-        "original_language": "zh",
-        "original_title": "色‧戒",
-        "overview": "During World War II, a secret agent must seduce, then assassinate an official  who works for the Japanese puppet government in Shanghai. Her mission becomes clouded when she finds herself falling in love with the man she is assigned to kill.",
-        "popularity": 11.3743,
-        "poster_path": "/6c1tqfJEBuIyhQC19SLlLQAUAvJ.jpg",
-        "production_companies": [
-            {
-                "id": 1246,
-                "logo_path": "/s0doRYEVWp3a4Y4Cg7R4fE9cwov.png",
-                "name": "River Road Entertainment",
-                "origin_country": "US"
-            },
-            {
-                "id": 13480,
-                "logo_path": null,
-                "name": "Haishang Films",
-                "origin_country": "TW"
-            },
-            {
-                "id": 10146,
-                "logo_path": "/xnFIOeq5cKw09kCWqV7foWDe4AA.png",
-                "name": "Focus Features",
-                "origin_country": "US"
-            },
-            {
-                "id": 5686,
-                "logo_path": "/o4aETXAP9HxOSRbGDWgBfkSzSJw.png",
-                "name": "Sil-Metropole Organisation",
-                "origin_country": "HK"
-            },
-            {
-                "id": 3407,
-                "logo_path": "/iVMjKOFyRvm9PW45lW1wW6TSvnj.png",
-                "name": "Shanghai Film Group",
-                "origin_country": "CN"
-            },
-            {
-                "id": 10284,
-                "logo_path": "/u0FCdiR026xbEbuY4yqaKj9Lf2O.png",
-                "name": "Edko Films",
-                "origin_country": "HK"
-            }
-        ],
-        "production_countries": [
-            {
-                "iso_3166_1": "CN",
-                "name": "China"
-            },
-            {
-                "iso_3166_1": "HK",
-                "name": "Hong Kong"
-            },
-            {
-                "iso_3166_1": "TW",
-                "name": "Taiwan"
-            },
-            {
-                "iso_3166_1": "US",
-                "name": "United States of America"
-            }
-        ],
-        "release_date": "2007-09-24",
-        "revenue": 67100000,
-        "runtime": 158,
+        "release_date": "1997-09-12",
+        "revenue": 109423648,
+        "runtime": 129,
         "softcore": false,
         "spoken_languages": [
             {
@@ -2233,14 +2600,9 @@
                 "name": "广州话 / 廣州話"
             },
             {
-                "english_name": "Japanese",
-                "iso_639_1": "ja",
-                "name": "日本語"
-            },
-            {
-                "english_name": "Mandarin",
-                "iso_639_1": "zh",
-                "name": "普通话"
+                "english_name": "German",
+                "iso_639_1": "de",
+                "name": "Deutsch"
             },
             {
                 "english_name": "English",
@@ -2249,463 +2611,40 @@
             }
         ],
         "status": "Released",
-        "tagline": "To kill the enemy, she would have to capture his heart... and break her own.",
-        "title": "Lust, Caution",
+        "tagline": "What do you get for the man who has everything...?",
+        "title": "The Game",
         "video": false,
-        "vote_average": 7.3,
-        "vote_count": 851,
+        "vote_average": 7.6,
+        "vote_count": 7634,
         "keywords": {
             "keywords": [
                 {
-                    "id": 7879,
-                    "name": "secret love"
+                    "id": 582,
+                    "name": "san francisco, california"
                 },
                 {
-                    "id": 478,
-                    "name": "china"
+                    "id": 2887,
+                    "name": "manipulation"
                 },
                 {
-                    "id": 459,
-                    "name": "sexual obsession"
+                    "id": 3883,
+                    "name": "danger of life"
                 },
                 {
-                    "id": 2682,
-                    "name": "shanghai, china"
+                    "id": 9228,
+                    "name": "puzzle"
                 },
                 {
-                    "id": 1332,
-                    "name": "cheating"
+                    "id": 190703,
+                    "name": "birthday present"
                 },
                 {
-                    "id": 5265,
-                    "name": "espionage"
+                    "id": 298530,
+                    "name": "conspiracy thriller"
                 },
                 {
-                    "id": 836,
-                    "name": "resistance"
-                },
-                {
-                    "id": 930,
-                    "name": "in love with enemy"
-                },
-                {
-                    "id": 2052,
-                    "name": "traitor"
-                },
-                {
-                    "id": 4320,
-                    "name": "lover"
-                },
-                {
-                    "id": 3074,
-                    "name": "insurgence"
-                },
-                {
-                    "id": 4269,
-                    "name": "war on freedom"
-                },
-                {
-                    "id": 4691,
-                    "name": "occupying power"
-                },
-                {
-                    "id": 5726,
-                    "name": "insurrection"
-                },
-                {
-                    "id": 9673,
-                    "name": "love"
-                },
-                {
-                    "id": 12354,
-                    "name": "hong kong"
-                },
-                {
-                    "id": 14669,
-                    "name": "older man younger woman relationship"
-                },
-                {
-                    "id": 34094,
-                    "name": "extramarital affair"
-                },
-                {
-                    "id": 155633,
-                    "name": "mahjong"
-                },
-                {
-                    "id": 174375,
-                    "name": "resistance fighter"
-                },
-                {
-                    "id": 207767,
-                    "name": "erotic thriller"
-                },
-                {
-                    "id": 207883,
-                    "name": "1940s"
-                }
-            ]
-        }
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/c0V8KAiuoWLXf7TfvwHK4yhIfb9.jpg",
-        "belongs_to_collection": null,
-        "budget": 43000000,
-        "genres": [
-            {
-                "id": 28,
-                "name": "Action"
-            },
-            {
-                "id": 35,
-                "name": "Comedy"
-            },
-            {
-                "id": 80,
-                "name": "Crime"
-            }
-        ],
-        "homepage": "",
-        "id": 136795,
-        "imdb_id": "tt2404463",
-        "origin_country": [
-            "US"
-        ],
-        "original_language": "en",
-        "original_title": "The Heat",
-        "overview": "Uptight and straight-laced, FBI Special Agent Sarah Ashburn is a methodical investigator with a reputation for excellence--and hyper-arrogance. Shannon Mullins, one of Boston P.D.'s \"finest,\" is foul-mouthed and has a very short fuse, and uses her gut instinct and street smarts to catch the most elusive criminals. Neither has ever had a partner, or a friend for that matter. When these two wildly incompatible law officers join forces to bring down a ruthless drug lord, they become the last thing anyone expected: buddies.",
-        "popularity": 13.0682,
-        "poster_path": "/yERBa1y5zNUOTRKQPiDCPIc2fuv.jpg",
-        "production_companies": [
-            {
-                "id": 7076,
-                "logo_path": "/8BFxn9NUWSgp0ndih569Gm62xiC.png",
-                "name": "Chernin Entertainment",
-                "origin_country": "US"
-            },
-            {
-                "id": 22213,
-                "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
-                "name": "TSG Entertainment",
-                "origin_country": "US"
-            },
-            {
-                "id": 290,
-                "logo_path": "/jrgCuaQsY9ouP5ILZf4Dq4ZOkIX.png",
-                "name": "Ingenious Media",
-                "origin_country": "GB"
-            },
-            {
-                "id": 10893,
-                "logo_path": null,
-                "name": "Big Screen Productions",
-                "origin_country": "GB"
-            },
-            {
-                "id": 25,
-                "logo_path": "/nM2MfoMqzJQRiSynsDabOtFKetD.png",
-                "name": "20th Century Fox",
-                "origin_country": "US"
-            }
-        ],
-        "production_countries": [
-            {
-                "iso_3166_1": "GB",
-                "name": "United Kingdom"
-            },
-            {
-                "iso_3166_1": "US",
-                "name": "United States of America"
-            }
-        ],
-        "release_date": "2013-06-27",
-        "revenue": 229930771,
-        "runtime": 117,
-        "softcore": false,
-        "spoken_languages": [
-            {
-                "english_name": "English",
-                "iso_639_1": "en",
-                "name": "English"
-            },
-            {
-                "english_name": "Spanish",
-                "iso_639_1": "es",
-                "name": "Español"
-            },
-            {
-                "english_name": "Bulgarian",
-                "iso_639_1": "bg",
-                "name": "български език"
-            }
-        ],
-        "status": "Released",
-        "tagline": "They're just trying to stay alive long enough to kill each other.",
-        "title": "The Heat",
-        "video": false,
-        "vote_average": 6.6,
-        "vote_count": 4284,
-        "keywords": {
-            "keywords": [
-                {
-                    "id": 2231,
-                    "name": "drug dealer"
-                },
-                {
-                    "id": 6149,
-                    "name": "police"
-                },
-                {
-                    "id": 1568,
-                    "name": "undercover"
-                },
-                {
-                    "id": 1022,
-                    "name": "workaholic"
-                },
-                {
-                    "id": 1680,
-                    "name": "boston, massachusetts"
-                },
-                {
-                    "id": 1812,
-                    "name": "fbi"
-                },
-                {
-                    "id": 9730,
-                    "name": "crime boss"
-                },
-                {
-                    "id": 4009,
-                    "name": "witness protection"
-                },
-                {
-                    "id": 3734,
-                    "name": "ambition"
-                },
-                {
-                    "id": 9826,
-                    "name": "murder"
-                },
-                {
-                    "id": 14964,
-                    "name": "drugs"
-                },
-                {
-                    "id": 15050,
-                    "name": "female cop"
-                },
-                {
-                    "id": 15111,
-                    "name": "drinking"
-                },
-                {
-                    "id": 15271,
-                    "name": "interrogation"
-                },
-                {
-                    "id": 18026,
-                    "name": "drug lord"
-                },
-                {
-                    "id": 155294,
-                    "name": "family conflict"
-                },
-                {
-                    "id": 160342,
-                    "name": "female detective"
-                },
-                {
-                    "id": 167316,
-                    "name": "buddy cop"
-                },
-                {
-                    "id": 167541,
-                    "name": "buddy comedy"
-                },
-                {
-                    "id": 168220,
-                    "name": "opposites"
-                },
-                {
-                    "id": 168590,
-                    "name": "tough cop"
-                },
-                {
-                    "id": 171070,
-                    "name": "arrogance"
-                },
-                {
-                    "id": 186281,
-                    "name": "dea"
-                },
-                {
-                    "id": 188991,
-                    "name": "drunkenness"
-                },
-                {
-                    "id": 206958,
-                    "name": "special agent"
-                },
-                {
-                    "id": 208327,
-                    "name": "zealous"
-                },
-                {
-                    "id": 240485,
-                    "name": "brother sister relationship"
-                },
-                {
-                    "id": 259376,
-                    "name": "playful"
-                },
-                {
-                    "id": 267876,
-                    "name": "relaxed"
-                },
-                {
-                    "id": 272551,
-                    "name": "fbi agent"
-                },
-                {
-                    "id": 276775,
-                    "name": "irreverent"
-                },
-                {
-                    "id": 309624,
-                    "name": "no friends"
-                },
-                {
-                    "id": 324713,
-                    "name": "whimsical"
-                },
-                {
-                    "id": 325765,
-                    "name": "amused"
-                },
-                {
-                    "id": 325814,
-                    "name": "familiar"
-                },
-                {
-                    "id": 325856,
-                    "name": "vibrant"
-                }
-            ]
-        }
-    },
-    {
-        "adult": false,
-        "backdrop_path": "/3m0j3hCS8kMAaP9El6Vy5Lqnyft.jpg",
-        "belongs_to_collection": {
-            "id": 1126392,
-            "name": "The Platform Collection",
-            "poster_path": "/nhzz8k3Kh1roYdPvbryX3VtgLZN.jpg",
-            "backdrop_path": "/m7REj1vsxi2aEcwT7iFHPRXbwgN.jpg"
-        },
-        "budget": 0,
-        "genres": [
-            {
-                "id": 878,
-                "name": "Science Fiction"
-            },
-            {
-                "id": 27,
-                "name": "Horror"
-            },
-            {
-                "id": 53,
-                "name": "Thriller"
-            }
-        ],
-        "homepage": "https://www.netflix.com/title/81284730",
-        "id": 1125510,
-        "imdb_id": "tt27729779",
-        "origin_country": [
-            "ES"
-        ],
-        "original_language": "es",
-        "original_title": "El hoyo 2",
-        "overview": "After a mysterious leader imposes his law in a brutal system of vertical cells, a new arrival battles against a dubious food distribution method.",
-        "popularity": 12.3373,
-        "poster_path": "/tvIpBg12IIA5Dr9Sjn38ygS1vQp.jpg",
-        "production_companies": [
-            {
-                "id": 52270,
-                "logo_path": "/cmHyuZRHMn2yD5yoLZo02dfIVCE.png",
-                "name": "Basque Films",
-                "origin_country": "ES"
-            }
-        ],
-        "production_countries": [
-            {
-                "iso_3166_1": "ES",
-                "name": "Spain"
-            }
-        ],
-        "release_date": "2024-09-27",
-        "revenue": 0,
-        "runtime": 101,
-        "softcore": false,
-        "spoken_languages": [
-            {
-                "english_name": "Spanish",
-                "iso_639_1": "es",
-                "name": "Español"
-            }
-        ],
-        "status": "Released",
-        "tagline": "Hunger will be the least of your worries.",
-        "title": "The Platform 2",
-        "video": false,
-        "vote_average": 5.5,
-        "vote_count": 1503,
-        "keywords": {
-            "keywords": [
-                {
-                    "id": 592,
-                    "name": "capitalism"
-                },
-                {
-                    "id": 10349,
-                    "name": "survival"
-                },
-                {
-                    "id": 227148,
-                    "name": "anarchism"
-                },
-                {
-                    "id": 234763,
-                    "name": "semi-prequel"
-                },
-                {
-                    "id": 243733,
-                    "name": "secret prison"
-                },
-                {
-                    "id": 245737,
-                    "name": "food shortage"
-                },
-                {
-                    "id": 257115,
-                    "name": "social experiment"
-                },
-                {
-                    "id": 325775,
-                    "name": "awestruck"
-                },
-                {
-                    "id": 325788,
-                    "name": "conceited"
-                },
-                {
-                    "id": 325825,
-                    "name": "horrified"
-                },
-                {
-                    "id": 338381,
-                    "name": "social dynamics"
+                    "id": 325777,
+                    "name": "bewildered"
                 }
             ]
         }
